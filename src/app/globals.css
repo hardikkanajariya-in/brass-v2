@@ -1,26 +1,229 @@
 @import "tailwindcss";
+@import "../styles/theme-vars.generated.css";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-brand-primary: var(--colors-brand-primary);
+  --color-brand-primary-light: var(--colors-brand-primary-light);
+  --color-brand-primary-dark: var(--colors-brand-primary-dark);
+  --color-brand-secondary: var(--colors-brand-secondary);
+  --color-brand-secondary-light: var(--colors-brand-secondary-light);
+  --color-brand-secondary-dark: var(--colors-brand-secondary-dark);
+  --color-neutral-50: var(--colors-neutral-50);
+  --color-neutral-100: var(--colors-neutral-100);
+  --color-neutral-200: var(--colors-neutral-200);
+  --color-neutral-300: var(--colors-neutral-300);
+  --color-neutral-400: var(--colors-neutral-400);
+  --color-neutral-500: var(--colors-neutral-500);
+  --color-neutral-600: var(--colors-neutral-600);
+  --color-neutral-700: var(--colors-neutral-700);
+  --color-neutral-800: var(--colors-neutral-800);
+  --color-neutral-900: var(--colors-neutral-900);
+  --color-neutral-950: var(--colors-neutral-950);
+  --color-semantic-success: var(--colors-semantic-success);
+  --color-semantic-warning: var(--colors-semantic-warning);
+  --color-semantic-error: var(--colors-semantic-error);
+  --color-semantic-info: var(--colors-semantic-info);
+  --color-surface-default: var(--colors-surface-default);
+  --color-surface-muted: var(--colors-surface-muted);
+  --color-surface-inverse: var(--colors-surface-inverse);
+  --radius-card: var(--radius-card);
+  --radius-button: var(--radius-button);
+  --radius-input: var(--radius-input);
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+  --radius-xl: var(--radius-xl);
+  --radius-full: var(--radius-full);
+  --shadow-sm: var(--shadow-sm);
+  --shadow-md: var(--shadow-md);
+  --shadow-lg: var(--shadow-lg);
+  --shadow-card: var(--shadow-card);
+  --shadow-button: var(--shadow-button);
+  --shadow-dropdown: var(--shadow-dropdown);
+  --spacing-section: var(--spacing-section);
+  --spacing-section-mobile: var(--spacing-section-mobile);
+  --spacing-container: var(--spacing-container);
+  --spacing-card-gap: var(--spacing-card-gap);
+  --spacing-card-padding: var(--spacing-card-padding);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+/* Base styles */
+::selection {
+  background-color: color-mix(in srgb, var(--colors-brand-primary) 20%, transparent);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--colors-surface-default);
+  color: var(--colors-neutral-800);
+}
+
+:focus-visible {
+  outline: 2px solid var(--colors-brand-primary);
+  outline-offset: 2px;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--colors-neutral-100);
+}
+
+::-webkit-scrollbar-thumb {
+  background: color-mix(in srgb, var(--colors-brand-primary) 30%, transparent);
+  border-radius: var(--radius-full);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: color-mix(in srgb, var(--colors-brand-primary) 50%, transparent);
+}
+
+/* CSS-only Animations */
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-20px) rotate(5deg);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 0.4;
+  }
+  50% {
+    opacity: 0.8;
+  }
+}
+
+@keyframes spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes countUp {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Animation utility classes */
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+.animate-float-delayed {
+  animation: float 8s ease-in-out 2s infinite;
+}
+
+.animate-float-slow {
+  animation: float 10s ease-in-out 1s infinite;
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp var(--animation-duration-normal) var(--animation-easing-default) forwards;
+}
+
+.animate-slide-in-left {
+  animation: slideInLeft var(--animation-duration-normal) var(--animation-easing-default) forwards;
+}
+
+.animate-slide-in-right {
+  animation: slideInRight var(--animation-duration-normal) var(--animation-easing-default) forwards;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 3s ease-in-out infinite;
+}
+
+.animate-spin-slow {
+  animation: spin-slow 20s linear infinite;
+}
+
+/* Transition defaults */
+.transition-theme {
+  transition-property: color, background-color, border-color, box-shadow, transform, opacity;
+  transition-duration: var(--animation-duration-normal);
+  transition-timing-function: var(--animation-easing-default);
+}
+
+/* Container utility */
+.container-custom {
+  max-width: var(--container-max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--spacing-container);
+  padding-right: var(--spacing-container);
+}
+
+.container-wide {
+  max-width: var(--container-max-width-wide);
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: var(--spacing-container);
+  padding-right: var(--spacing-container);
+}
+
+/* Prose overrides for blog */
+.prose h1, .prose h2, .prose h3, .prose h4 {
+  color: var(--colors-brand-secondary);
+}
+
+.prose a {
+  color: var(--colors-brand-primary);
+}
+
+.prose strong {
+  color: var(--colors-brand-secondary-dark);
 }

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cert-1",
+    "name": "ISO 9001:2015",
+    "body": "TÜV SÜD",
+    "year": 2018,
+    "validity": "2018–2027",
+    "description": "Quality Management System certification ensuring consistent quality in design, development, production, and delivery of brass components. Covers all manufacturing processes and supply chain management.",
+    "image": "/images/certifications/iso-9001.jpg",
+    "lucideIcon": "Award"
+  },
+  {
+    "id": "cert-2",
+    "name": "ISO 14001:2015",
+    "body": "TÜV SÜD",
+    "year": 2020,
+    "validity": "2020–2029",
+    "description": "Environmental Management System certification demonstrating our commitment to minimizing environmental impact through brass recycling, energy efficiency, and sustainable manufacturing practices.",
+    "image": "/images/certifications/iso-14001.jpg",
+    "lucideIcon": "Leaf"
+  },
+  {
+    "id": "cert-3",
+    "name": "CE Marking",
+    "body": "European Union Directive",
+    "year": 2015,
+    "validity": "Ongoing",
+    "description": "Conformité Européenne marking confirming that our brass products meet EU safety, health, and environmental protection requirements for sale within the European Economic Area.",
+    "image": "/images/certifications/ce-marking.jpg",
+    "lucideIcon": "Shield"
+  },
+  {
+    "id": "cert-4",
+    "name": "RoHS Compliance",
+    "body": "EU Directive 2011/65/EU",
+    "year": 2016,
+    "validity": "Ongoing",
+    "description": "Restriction of Hazardous Substances compliance ensuring our brass components are free from lead, mercury, cadmium, and other restricted materials beyond permissible limits.",
+    "image": "/images/certifications/rohs.jpg",
+    "lucideIcon": "CheckCircle"
+  },
+  {
+    "id": "cert-5",
+    "name": "REACH Compliance",
+    "body": "European Chemicals Agency",
+    "year": 2017,
+    "validity": "Ongoing",
+    "description": "Registration, Evaluation, Authorisation and Restriction of Chemicals compliance ensuring our materials and processes meet EU chemical safety standards throughout the supply chain.",
+    "image": "/images/certifications/reach.jpg",
+    "lucideIcon": "FileCheck"
+  }
+]

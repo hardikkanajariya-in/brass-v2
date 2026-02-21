@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "1",
+    "slug": "brass-elbow-90",
+    "name": "Brass Elbow 90°",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Right-angle pipe direction change fitting for plumbing and industrial piping systems.",
+    "description": "Precision-machined brass 90° elbow fitting designed for changing pipe direction at right angles. Manufactured from high-grade CZ121 brass with BSP threading for reliable, leak-free connections in water, gas, and pneumatic systems. Suitable for both commercial and residential installations.",
+    "image": "/images/products/1.jpg",
+    "gallery": ["/images/products/1.jpg", "/images/products/56.jpg", "/images/products/57.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/4\" – 2\" BSP",
+      "threadType": "BSP (British Standard Pipe)",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Chrome Plated"],
+      "weight": "45g – 580g (varies by size)",
+      "standard": "BS EN 10226-1, ISO 7-1"
+    },
+    "applications": [
+      "Domestic hot and cold water plumbing",
+      "Industrial compressed air lines",
+      "Gas distribution piping",
+      "HVAC hydronic systems",
+      "Marine and shipboard plumbing"
+    ],
+    "features": [
+      "Full-bore 90° directional change",
+      "Precision-cut BSP threads for leak-free joints",
+      "Dezincification-resistant brass alloy",
+      "Compatible with PTFE tape and thread sealant",
+      "Pressure tested to 1.5× rated working pressure"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 1
+  },
+  {
+    "id": "2",
+    "slug": "brass-tee-equal",
+    "name": "Brass Equal Tee",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Three-way equal bore distribution fitting for branching pipe runs.",
+    "description": "Brass equal tee fitting providing a 90° branch from the main pipe run with equal bore on all three ports. Machined from CZ360 free-cutting brass for clean threads and high flow capacity. Ideal for splitting or combining fluid flow in plumbing and pneumatic systems.",
+    "image": "/images/products/2.jpg",
+    "gallery": ["/images/products/2.jpg", "/images/products/58.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ360 (CW614N)",
+      "sizeRange": "1/4\" – 2\" BSP",
+      "threadType": "BSP Parallel / Taper",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 110°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "55g – 720g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Water distribution manifolds",
+      "Compressed air branch lines",
+      "Heating system pipe splits",
+      "Industrial fluid distribution"
+    ],
+    "features": [
+      "Equal bore on all three ports for balanced flow",
+      "Precision-machined BSP threads",
+      "High dezincification resistance",
+      "Smooth internal bore minimizes pressure drop",
+      "Available in multiple plating finishes"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 2
+  },
+  {
+    "id": "3",
+    "slug": "brass-cross-fitting",
+    "name": "Brass Cross Fitting",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Four-way pipeline intersection fitting for complex piping networks.",
+    "description": "Brass cross fitting with four equal ports arranged at 90° intervals, enabling pipeline intersections in multi-directional distribution systems. Manufactured from CZ121 brass with precision BSP threads for reliable sealing under pressure. Commonly used in industrial manifolds and commercial HVAC systems.",
+    "image": "/images/products/3.jpg",
+    "gallery": ["/images/products/3.jpg", "/images/products/60.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/4\" – 1-1/2\" BSP",
+      "threadType": "BSP (British Standard Pipe)",
+      "pressureRating": "20 bar",
+      "temperatureRange": "-20°C to 110°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Chrome Plated"],
+      "weight": "75g – 850g (varies by size)",
+      "standard": "BS EN 10226-1, DIN 3522"
+    },
+    "applications": [
+      "Multi-directional fluid distribution manifolds",
+      "HVAC piping intersections",
+      "Industrial process piping",
+      "Fire suppression branch systems",
+      "Compressed air distribution networks"
+    ],
+    "features": [
+      "Four-port equal bore intersection design",
+      "Precision CNC-machined body for accuracy",
+      "High-pressure rated for industrial use",
+      "Dezincification-resistant alloy",
+      "Compatible with standard BSP fittings"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 3
+  },
+  {
+    "id": "4",
+    "slug": "brass-union-connector",
+    "name": "Brass Union Connector",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Dismantlable pipe coupling that allows disconnection without special tools.",
+    "description": "Three-piece brass union connector enabling easy assembly and disassembly of pipe joints without rotating the pipe. Features a captive nut design with integral seat for reliable metal-to-metal sealing. Essential for maintenance-friendly piping installations.",
+    "image": "/images/products/4.jpg",
+    "gallery": ["/images/products/4.jpg", "/images/products/56.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/4\" – 2\" BSP",
+      "threadType": "BSP Female/Female",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "65g – 680g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Pump and equipment isolation joints",
+      "Maintenance access points in piping",
+      "Water meter installation connections",
+      "Boiler and heater inlet/outlet unions"
+    ],
+    "features": [
+      "Three-piece design for easy dismantling",
+      "Metal-to-metal conical seat for leak-free sealing",
+      "Captive union nut prevents component loss",
+      "No pipe rotation required for disconnection",
+      "Forged brass body for superior strength"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 4
+  },
+  {
+    "id": "5",
+    "slug": "brass-hex-coupling",
+    "name": "Brass Hex Coupling",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Heavy-duty threaded pipe coupling with hex body for wrench-tight connections.",
+    "description": "Brass hex coupling with female BSP threads on both ends for joining two male-threaded pipes inline. The hexagonal body provides a solid grip surface for wrench installation. Manufactured from CW614N brass for excellent machinability and corrosion resistance.",
+    "image": "/images/products/5.jpg",
+    "gallery": ["/images/products/5.jpg", "/images/products/59.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CW614N (CZ121)",
+      "sizeRange": "1/8\" – 2\" BSP",
+      "threadType": "BSP Female/Female",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Chrome Plated"],
+      "weight": "30g – 450g (varies by size)",
+      "standard": "BS EN 10226-1, ISO 228"
+    },
+    "applications": [
+      "Inline pipe extension and joining",
+      "Plumbing repair and modification",
+      "Industrial process pipe connections",
+      "Pneumatic line coupling"
+    ],
+    "features": [
+      "Hex body for secure wrench grip",
+      "Full-bore design maintains flow capacity",
+      "Precision-machined female BSP threads",
+      "Corrosion and dezincification resistant",
+      "Available in multiple plating options"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "order": 5
+  },
+  {
+    "id": "6",
+    "slug": "brass-reducer-bushing",
+    "name": "Brass Reducer Bushing",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Inline pipe size reduction fitting for connecting different bore sizes.",
+    "description": "Brass reducer bushing with male outer thread and female inner thread for stepping down pipe sizes within a fitting. CNC-machined from CZ121 brass with a hex shoulder for tool-tight installation. Provides smooth flow transition between larger and smaller pipe diameters.",
+    "image": "/images/products/6.jpg",
+    "gallery": ["/images/products/6.jpg", "/images/products/57.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/4\" × 1/8\" to 2\" × 1-1/2\" BSP",
+      "threadType": "BSP Male/Female",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "20g – 380g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Pipe diameter reduction in plumbing",
+      "Adapting valve ports to different pipe sizes",
+      "HVAC system pipe transitions",
+      "Industrial equipment connections"
+    ],
+    "features": [
+      "Concentric reduction for smooth flow transition",
+      "Hex shoulder for spanner-tight installation",
+      "Male/female thread combination",
+      "Dezincification-resistant brass alloy",
+      "Wide range of reduction ratios available"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 6
+  },
+  {
+    "id": "7",
+    "slug": "brass-street-elbow-45",
+    "name": "Brass Street Elbow 45°",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Compact male-to-female 45° elbow for gradual pipe direction changes.",
+    "description": "Brass 45° street elbow with male thread on one end and female thread on the other, eliminating the need for an additional nipple. Provides a gradual directional change with lower flow resistance than 90° elbows. Machined from CZ360 free-cutting brass for precision threading.",
+    "image": "/images/products/7.jpg",
+    "gallery": ["/images/products/7.jpg", "/images/products/56.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ360",
+      "sizeRange": "1/4\" – 1-1/2\" BSP",
+      "threadType": "BSP Male/Female",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 110°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "25g – 320g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Tight-space plumbing installations",
+      "Gas line directional changes",
+      "Condensate drain piping",
+      "Instrument and gauge connections"
+    ],
+    "features": [
+      "Male/female thread eliminates extra nipple",
+      "45° angle for lower flow resistance",
+      "Compact form factor saves space",
+      "Free-cutting brass for clean threads",
+      "Suitable for gas and water applications"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 7
+  },
+  {
+    "id": "8",
+    "slug": "brass-compression-fitting",
+    "name": "Brass Compression Fitting",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Leakproof tube-to-thread connection using compression olive sealing.",
+    "description": "Brass compression fitting providing a secure, leakproof connection between copper or plastic tubes and threaded pipe systems. Features a brass olive that compresses onto the tube for a reliable mechanical seal without soldering. Compliant with plumbing regulations for potable water systems.",
+    "image": "/images/products/8.jpg",
+    "gallery": ["/images/products/8.jpg", "/images/products/57.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CW614N (CZ121)",
+      "sizeRange": "6mm – 54mm (tube OD)",
+      "threadType": "BSP Parallel",
+      "pressureRating": "16 bar (water), 5 bar (gas)",
+      "temperatureRange": "-20°C to 110°C",
+      "finishOptions": ["Natural Brass", "Chrome Plated"],
+      "weight": "35g – 520g (varies by size)",
+      "standard": "BS EN 1254-2, WRAS Approved"
+    },
+    "applications": [
+      "Domestic water supply connections",
+      "Central heating pipe joints",
+      "Gas installation fittings (with gas-rated olive)",
+      "Commercial plumbing systems"
+    ],
+    "features": [
+      "No soldering or special tools required",
+      "Brass olive provides reliable compression seal",
+      "WRAS approved for potable water use",
+      "Compatible with copper and plastic tubes",
+      "Reusable — can be disassembled and reassembled"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 8
+  },
+  {
+    "id": "9",
+    "slug": "brass-flare-fitting",
+    "name": "Brass Flare Fitting",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "High-pressure refrigerant line connector with flared tube sealing.",
+    "description": "Brass flare fitting designed for high-pressure refrigerant and gas line connections using SAE 45° flared tube ends. Provides a vibration-resistant, leak-free connection suitable for HVAC/R and automotive applications. Manufactured from CZ121 brass with precision-machined flare seats.",
+    "image": "/images/products/9.jpg",
+    "gallery": ["/images/products/9.jpg", "/images/products/58.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/4\" – 7/8\" SAE",
+      "threadType": "SAE 45° Flare (UNF)",
+      "pressureRating": "35 bar",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "20g – 180g (varies by size)",
+      "standard": "SAE J513, ISO 8434-2"
+    },
+    "applications": [
+      "Refrigerant line connections in HVAC/R",
+      "Automotive fuel and brake line fittings",
+      "LPG and natural gas installations",
+      "High-pressure hydraulic instrument lines"
+    ],
+    "features": [
+      "SAE 45° flare provides vibration-resistant seal",
+      "High-pressure rating for refrigerant service",
+      "Extended temperature range for extreme conditions",
+      "Precision-machined flare seat for optimal sealing",
+      "Corrosion-resistant brass construction"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 9
+  },
+  {
+    "id": "10",
+    "slug": "brass-cap-plug",
+    "name": "Brass End Cap",
+    "categoryId": "fittings",
+    "categorySlug": "fittings",
+    "shortDescription": "Pipe terminal end sealing cap for blanking off unused pipe outlets.",
+    "description": "Brass end cap for sealing and blanking off unused pipe connections, test points, or future expansion outlets. Available in female (cap) and male (plug) BSP thread configurations. Machined from CZ121 brass with hex grip for wrench installation.",
+    "image": "/images/products/10.jpg",
+    "gallery": ["/images/products/10.jpg", "/images/products/56.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/8\" – 2\" BSP",
+      "threadType": "BSP Male or Female",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Chrome Plated"],
+      "weight": "10g – 280g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Blanking unused pipe outlets",
+      "Pressure test caps for plumbing systems",
+      "Future expansion point sealing",
+      "Equipment port protection during shipping"
+    ],
+    "features": [
+      "Hex body for secure wrench tightening",
+      "Available in cap (female) and plug (male) types",
+      "Solid brass construction for permanent sealing",
+      "Dezincification-resistant material",
+      "Multiple plating options for aesthetic match"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 10
+  },
+  {
+    "id": "11",
+    "slug": "brass-ball-valve",
+    "name": "Brass Ball Valve",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Quarter-turn full-bore flow control valve for water, gas, and air systems.",
+    "description": "Brass ball valve with full-bore design and quarter-turn operation providing unrestricted flow when open and positive shut-off when closed. Chrome-plated brass ball with PTFE seats ensures long service life with minimal torque. Suitable for potable water, gas, and compressed air applications.",
+    "image": "/images/products/11.jpg",
+    "gallery": ["/images/products/11.jpg", "/images/products/57.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CW617N Forged Brass",
+      "sizeRange": "DN15 – DN50 (1/2\" – 2\")",
+      "threadType": "BSP Female/Female",
+      "pressureRating": "40 bar (PN40)",
+      "temperatureRange": "-20°C to 180°C",
+      "finishOptions": ["Nickel Plated", "Chrome Plated", "Natural Brass"],
+      "weight": "120g – 1.8kg (varies by size)",
+      "standard": "BS EN 13828, ISO 7121"
+    },
+    "applications": [
+      "Potable water system isolation",
+      "Natural gas and LPG shut-off",
+      "Compressed air supply control",
+      "HVAC system balancing",
+      "Industrial process fluid control"
+    ],
+    "features": [
+      "Full-bore design for unrestricted flow",
+      "Quarter-turn operation for fast on/off",
+      "Chrome-plated brass ball with PTFE seats",
+      "Blow-out proof stem design",
+      "Lever handle with visual open/close indicator"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 11
+  },
+  {
+    "id": "12",
+    "slug": "brass-gate-valve",
+    "name": "Brass Gate Valve",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Straight-through flow valve with minimal resistance when fully open.",
+    "description": "Brass gate valve offering straight-through flow with minimal pressure loss when fully open. Rising stem design provides clear visual indication of valve position. Ideal for applications requiring infrequent operation as a fully open or fully closed isolation valve.",
+    "image": "/images/products/12.jpg",
+    "gallery": ["/images/products/12.jpg", "/images/products/59.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CW617N Forged Brass",
+      "sizeRange": "DN15 – DN50 (1/2\" – 2\")",
+      "threadType": "BSP Female/Female",
+      "pressureRating": "16 bar (PN16)",
+      "temperatureRange": "-10°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "180g – 2.2kg (varies by size)",
+      "standard": "BS 5154, DIN 3352"
+    },
+    "applications": [
+      "Main water supply isolation",
+      "Fire protection system valves",
+      "Industrial pipeline isolation",
+      "Building services shutoff points"
+    ],
+    "features": [
+      "Full-bore straight-through flow path",
+      "Rising stem with clear position indicator",
+      "Non-rising handwheel option available",
+      "Solid wedge gate for positive shut-off",
+      "Low pressure drop when fully open"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 12
+  },
+  {
+    "id": "13",
+    "slug": "brass-check-valve",
+    "name": "Brass Check Valve",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Non-return swing disc valve that prevents backflow in piping systems.",
+    "description": "Brass swing check valve with automatic non-return function to prevent reverse flow and protect equipment from backflow contamination. Spring-assisted disc closure ensures rapid response. Compact inline design suitable for horizontal and vertical installations.",
+    "image": "/images/products/13.jpg",
+    "gallery": ["/images/products/13.jpg", "/images/products/56.jpg", "/images/products/57.jpg"],
+    "specifications": {
+      "material": "CW617N Forged Brass",
+      "sizeRange": "DN15 – DN50 (1/2\" – 2\")",
+      "threadType": "BSP Female/Female",
+      "pressureRating": "16 bar",
+      "temperatureRange": "-10°C to 110°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "90g – 950g (varies by size)",
+      "standard": "BS EN 13959, DIN 3502"
+    },
+    "applications": [
+      "Pump discharge backflow prevention",
+      "Water heater inlet protection",
+      "Booster set non-return requirements",
+      "Industrial process line protection"
+    ],
+    "features": [
+      "Automatic non-return operation",
+      "Spring-assisted disc for rapid closure",
+      "Low cracking pressure for minimal flow resistance",
+      "Suitable for horizontal and vertical installation",
+      "WRAS approved for potable water"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 13
+  },
+  {
+    "id": "14",
+    "slug": "brass-globe-valve",
+    "name": "Brass Globe Valve",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Precise flow throttling and regulation valve for process control.",
+    "description": "Brass globe valve designed for precise flow regulation and throttling control. The disc-to-seat arrangement allows accurate flow adjustment from fully open to fully closed. Ideal for applications requiring frequent flow modulation rather than simple on/off isolation.",
+    "image": "/images/products/14.jpg",
+    "gallery": ["/images/products/14.jpg", "/images/products/58.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CW617N Forged Brass",
+      "sizeRange": "DN15 – DN50 (1/2\" – 2\")",
+      "threadType": "BSP Female/Female",
+      "pressureRating": "16 bar (PN16)",
+      "temperatureRange": "-10°C to 180°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Chrome Plated"],
+      "weight": "200g – 2.5kg (varies by size)",
+      "standard": "BS 5152, DIN 3356"
+    },
+    "applications": [
+      "Steam and condensate flow control",
+      "Cooling water regulation",
+      "Process fluid throttling",
+      "Building services flow balancing"
+    ],
+    "features": [
+      "Precision disc-to-seat flow control",
+      "Linear flow characteristic for accurate throttling",
+      "Rising stem with handwheel operation",
+      "Replaceable PTFE packing gland",
+      "Suitable for high-temperature steam applications"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "order": 14
+  },
+  {
+    "id": "15",
+    "slug": "brass-butterfly-valve",
+    "name": "Brass Butterfly Valve",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Wafer-type compact on/off flow control for large diameter systems.",
+    "description": "Brass butterfly valve with wafer-type body for compact installation between flanges. Quarter-turn disc operation provides fast on/off control with moderate flow regulation capability. Lightweight design reduces pipeline loading while maintaining reliable shut-off performance.",
+    "image": "/images/products/15.jpg",
+    "gallery": ["/images/products/15.jpg", "/images/products/56.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ122 Brass Body, SS316 Disc",
+      "sizeRange": "DN25 – DN100 (1\" – 4\")",
+      "threadType": "Wafer (Flanged)",
+      "pressureRating": "16 bar (PN16)",
+      "temperatureRange": "-10°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "350g – 3.5kg (varies by size)",
+      "standard": "BS EN 593, API 609"
+    },
+    "applications": [
+      "HVAC chilled and hot water systems",
+      "Building services main line control",
+      "Irrigation system flow control",
+      "Industrial cooling circuits"
+    ],
+    "features": [
+      "Wafer-type compact design saves space",
+      "Quarter-turn operation for rapid actuation",
+      "EPDM seat for reliable shut-off",
+      "Lightweight body reduces pipe stress",
+      "Lever or gear operator options available"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 15
+  },
+  {
+    "id": "16",
+    "slug": "brass-needle-valve",
+    "name": "Brass Needle Valve",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Fine precision flow metering valve for instrument and gauge applications.",
+    "description": "Brass needle valve providing extremely fine flow adjustment through a tapered needle and matched seat design. Multiple turns from open to closed allow precise metering control for instrument connections, sampling systems, and gauge isolations. Manufactured from CZ121 brass with precision lapped internals.",
+    "image": "/images/products/16.jpg",
+    "gallery": ["/images/products/16.jpg", "/images/products/57.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/8\" – 1/2\" BSP",
+      "threadType": "BSP Female/Female",
+      "pressureRating": "35 bar",
+      "temperatureRange": "-20°C to 150°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "45g – 220g (varies by size)",
+      "standard": "BS EN 19, DIN 3535"
+    },
+    "applications": [
+      "Pressure gauge isolation",
+      "Instrument air supply regulation",
+      "Chemical dosing systems",
+      "Fluid sampling line control"
+    ],
+    "features": [
+      "Tapered needle for ultra-fine flow adjustment",
+      "Multi-turn stem for precise metering",
+      "High-pressure rated for instrument service",
+      "Lapped needle and seat for bubble-tight seal",
+      "PTFE packing gland for leak-free operation"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 16
+  },
+  {
+    "id": "17",
+    "slug": "brass-safety-relief-valve",
+    "name": "Brass Safety Relief Valve",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Pressure protection valve with adjustable set point for system safety.",
+    "description": "Brass safety relief valve designed to protect piping systems and equipment from overpressure conditions. Spring-loaded disc automatically opens at the preset pressure to safely vent excess pressure, then reseats when system pressure falls below set point. Adjustable within a defined range for field calibration.",
+    "image": "/images/products/17.jpg",
+    "gallery": ["/images/products/17.jpg", "/images/products/58.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CW617N Forged Brass",
+      "sizeRange": "1/4\" – 1\" BSP",
+      "threadType": "BSP Male Inlet, BSP Female Outlet",
+      "pressureRating": "Adjustable 1 – 10 bar set pressure",
+      "temperatureRange": "-10°C to 140°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "120g – 450g (varies by size)",
+      "standard": "BS EN ISO 4126-1, PED 2014/68/EU"
+    },
+    "applications": [
+      "Hot water storage vessel protection",
+      "Compressed air receiver safety",
+      "Boiler overpressure protection",
+      "Closed-loop heating system relief"
+    ],
+    "features": [
+      "Adjustable set pressure within defined range",
+      "Spring-loaded automatic operation",
+      "Positive reseating after pressure relief",
+      "Tamper-resistant cap option available",
+      "PED compliant for pressure equipment safety"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 17
+  },
+  {
+    "id": "18",
+    "slug": "brass-solenoid-body",
+    "name": "Brass Solenoid Valve Body",
+    "categoryId": "valves",
+    "categorySlug": "valves",
+    "shortDescription": "Electromagnetic actuated valve body for automated flow control systems.",
+    "description": "Precision-machined brass solenoid valve body designed for integration with electromagnetic coil actuators. Features accurately ported flow passages and seat machining for reliable automated on/off control. Available in 2-way normally closed and 3-way configurations for diverse automation requirements.",
+    "image": "/images/products/18.jpg",
+    "gallery": ["/images/products/18.jpg", "/images/products/56.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/8\" – 1\" BSP",
+      "threadType": "BSP Female",
+      "pressureRating": "16 bar",
+      "temperatureRange": "-10°C to 130°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "85g – 680g (varies by size)",
+      "standard": "BS EN 60730, IEC 60730"
+    },
+    "applications": [
+      "Irrigation system automation",
+      "HVAC zone control systems",
+      "Industrial process automation",
+      "Vending and dispensing equipment"
+    ],
+    "features": [
+      "Precision-machined ports and seat",
+      "Compatible with standard solenoid coils",
+      "Available in 2-way and 3-way configurations",
+      "NBR and FKM seat options",
+      "CNC-machined for tight tolerances"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 18
+  },
+  {
+    "id": "19",
+    "slug": "brass-hose-barb",
+    "name": "Brass Hose Barb Connector",
+    "categoryId": "connectors",
+    "categorySlug": "connectors",
+    "shortDescription": "Barbed hose to thread connection for flexible hose terminations.",
+    "description": "Brass hose barb connector with serrated barb profile for secure grip on flexible hoses and BSP male thread for piping connection. Multiple barb ridges prevent hose blow-off under pressure when combined with a hose clamp. Available in straight, elbow, and tee configurations.",
+    "image": "/images/products/19.jpg",
+    "gallery": ["/images/products/19.jpg", "/images/products/57.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "6mm – 25mm barb × 1/4\" – 1\" BSP",
+      "threadType": "BSP Male",
+      "pressureRating": "10 bar (with clamp)",
+      "temperatureRange": "-20°C to 100°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "15g – 180g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Flexible hose to rigid pipe transitions",
+      "Garden irrigation connections",
+      "Beverage dispensing lines",
+      "Air compressor hose fittings",
+      "Fuel line connections"
+    ],
+    "features": [
+      "Multi-ridge barb design for secure hose grip",
+      "Available in straight, elbow, and tee forms",
+      "Free-cutting brass for clean machining",
+      "Compatible with worm-drive hose clamps",
+      "Food-safe brass alloy available on request"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 19
+  },
+  {
+    "id": "20",
+    "slug": "brass-push-to-connect",
+    "name": "Brass Push-to-Connect Fitting",
+    "categoryId": "connectors",
+    "categorySlug": "connectors",
+    "shortDescription": "Tool-free tube insertion connector for rapid pneumatic and water lines.",
+    "description": "Brass push-to-connect fitting enabling tool-free tube connections by simply pushing the tube into the fitting body. Internal collet and O-ring provide a secure, leak-free grip that can be released by pressing the release collar. Ideal for rapid assembly of pneumatic circuits and water supply lines.",
+    "image": "/images/products/20.jpg",
+    "gallery": ["/images/products/20.jpg", "/images/products/59.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CW614N Brass Body, POM Collet",
+      "sizeRange": "4mm – 16mm OD tube",
+      "threadType": "BSP Male / BSP Female",
+      "pressureRating": "20 bar (air), 10 bar (water)",
+      "temperatureRange": "-10°C to 80°C",
+      "finishOptions": ["Nickel Plated"],
+      "weight": "12g – 95g (varies by size)",
+      "standard": "BS EN 1254-4, ISO 14744"
+    },
+    "applications": [
+      "Pneumatic circuit rapid assembly",
+      "Push-fit plumbing installations",
+      "Vending machine fluid connections",
+      "Laboratory gas and fluid lines"
+    ],
+    "features": [
+      "Tool-free push insertion connection",
+      "Collet and O-ring for secure sealing",
+      "One-touch release collar for disconnection",
+      "Suitable for nylon, polyethylene, and copper tubes",
+      "Reusable — connect and disconnect multiple times"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 20
+  },
+  {
+    "id": "21",
+    "slug": "brass-quick-connect",
+    "name": "Brass Quick-Connect Coupling",
+    "categoryId": "connectors",
+    "categorySlug": "connectors",
+    "shortDescription": "Snap-action pneumatic coupling for rapid tool and hose changeover.",
+    "description": "Brass quick-connect coupling with snap-action latching mechanism for rapid connection and disconnection of pneumatic hoses and tools. Self-sealing valve in both halves prevents air leakage when disconnected. Industrial-grade design for heavy-duty workshop and production line environments.",
+    "image": "/images/products/21.jpg",
+    "gallery": ["/images/products/21.jpg", "/images/products/56.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CW614N Brass",
+      "sizeRange": "1/4\" – 1/2\" BSP",
+      "threadType": "BSP Male / BSP Female",
+      "pressureRating": "15 bar",
+      "temperatureRange": "-10°C to 80°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "45g – 180g (varies by size)",
+      "standard": "ISO 6150-B, DIN 3238"
+    },
+    "applications": [
+      "Pneumatic tool quick changeover",
+      "Compressed air hose coupling",
+      "Workshop airline connections",
+      "Production line pneumatic tooling"
+    ],
+    "features": [
+      "One-hand snap-action connection",
+      "Self-sealing valve prevents leaks when disconnected",
+      "Hardened locking balls for reliable latching",
+      "High-flow design minimizes pressure drop",
+      "Interchangeable with ISO 6150-B standard"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 21
+  },
+  {
+    "id": "22",
+    "slug": "brass-bulkhead-fitting",
+    "name": "Brass Bulkhead Fitting",
+    "categoryId": "connectors",
+    "categorySlug": "connectors",
+    "shortDescription": "Panel and wall passthrough connector for sealed pipe penetrations.",
+    "description": "Brass bulkhead fitting designed for passing fluid or gas lines through panels, walls, or tank walls while maintaining a pressure-tight seal. Features a lock nut and gasket assembly for secure mounting. Available with various thread and tube connection options on either side.",
+    "image": "/images/products/22.jpg",
+    "gallery": ["/images/products/22.jpg", "/images/products/57.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/4\" – 1\" BSP",
+      "threadType": "BSP Male/Female with Lock Nut",
+      "pressureRating": "20 bar",
+      "temperatureRange": "-20°C to 110°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "35g – 350g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Tank and vessel wall penetrations",
+      "Control panel fluid connections",
+      "Enclosure cable and pipe entries",
+      "Equipment bulkhead passthrough"
+    ],
+    "features": [
+      "Lock nut and gasket for sealed panel mounting",
+      "Dual-sided thread access through bulkhead",
+      "Precision-machined for consistent sealing",
+      "Suitable for metal and plastic panels",
+      "Multiple connection types available on each side"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "order": 22
+  },
+  {
+    "id": "23",
+    "slug": "brass-pipe-nipple",
+    "name": "Brass Pipe Nipple",
+    "categoryId": "connectors",
+    "categorySlug": "connectors",
+    "shortDescription": "Close or hex nipple for pipe extension and fitting connection.",
+    "description": "Brass pipe nipple with male BSP threads on both ends for connecting two female-threaded fittings or extending pipe runs. Available as close nipples (minimum length), hex nipples (with central hex for wrench grip), and barrel nipples in various lengths. Machined from CZ360 free-cutting brass.",
+    "image": "/images/products/23.jpg",
+    "gallery": ["/images/products/23.jpg", "/images/products/58.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "1/8\" – 2\" BSP × 30mm – 150mm length",
+      "threadType": "BSP Male/Male",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Chrome Plated"],
+      "weight": "10g – 320g (varies by size)",
+      "standard": "BS EN 10226-1, BS 1740"
+    },
+    "applications": [
+      "Connecting two female-threaded fittings",
+      "Pipe extension in tight spaces",
+      "Gauge and instrument mounting",
+      "Plumbing and HVAC connections"
+    ],
+    "features": [
+      "Available as close, hex, and barrel nipple types",
+      "Precision-cut BSP threads on both ends",
+      "Hex nipple variant provides wrench grip point",
+      "Free-cutting brass alloy for clean threads",
+      "Wide range of lengths available"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 23
+  },
+  {
+    "id": "24",
+    "slug": "brass-male-female-adapter",
+    "name": "Brass Male-Female Adapter",
+    "categoryId": "connectors",
+    "categorySlug": "connectors",
+    "shortDescription": "Thread type conversion adapter between different thread standards.",
+    "description": "Brass adapter with male thread on one end and female thread on the other for converting between different thread types, sizes, or standards. Enables connection of BSP to NPT, metric to BSP, or other thread combinations. CNC-machined from CW614N brass to precise tolerances.",
+    "image": "/images/products/24.jpg",
+    "gallery": ["/images/products/24.jpg", "/images/products/56.jpg", "/images/products/57.jpg"],
+    "specifications": {
+      "material": "CW614N (CZ121)",
+      "sizeRange": "1/8\" – 2\" (various combinations)",
+      "threadType": "BSP/NPT/Metric (conversion pairs)",
+      "pressureRating": "25 bar",
+      "temperatureRange": "-20°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated"],
+      "weight": "15g – 280g (varies by size)",
+      "standard": "BS EN 10226-1, ASME B1.20.1"
+    },
+    "applications": [
+      "Converting BSP to NPT thread standards",
+      "Connecting metric to imperial pipe systems",
+      "Equipment interface thread adaptation",
+      "Import/export equipment pipe connections"
+    ],
+    "features": [
+      "Precision thread conversion between standards",
+      "Multiple thread combination options",
+      "Hex body for secure wrench installation",
+      "CNC-machined to tight tolerances",
+      "Compatible with standard thread sealants"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 24
+  },
+  {
+    "id": "25",
+    "slug": "brass-swivel-joint",
+    "name": "Brass Swivel Joint Connector",
+    "categoryId": "connectors",
+    "categorySlug": "connectors",
+    "shortDescription": "Rotatable hose-to-thread union for tangle-free connections.",
+    "description": "Brass swivel joint connector allowing 360° rotation at the connection point to prevent hose kinking and tangling. Internal ball bearing race and sealed joint enable free rotation under pressure without leakage. Ideal for hose reel connections and equipment with rotating service points.",
+    "image": "/images/products/25.jpg",
+    "gallery": ["/images/products/25.jpg", "/images/products/61.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CW614N Brass",
+      "sizeRange": "1/4\" – 1\" BSP",
+      "threadType": "BSP Male/Female Swivel",
+      "pressureRating": "15 bar",
+      "temperatureRange": "-10°C to 80°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Chrome Plated"],
+      "weight": "55g – 340g (varies by size)",
+      "standard": "BS EN 10226-1"
+    },
+    "applications": [
+      "Hose reel inlet connections",
+      "Rotating equipment service points",
+      "Shower and faucet hose connections",
+      "Industrial spray nozzle mounts"
+    ],
+    "features": [
+      "360° free rotation under pressure",
+      "Sealed bearing joint prevents leakage",
+      "Prevents hose kinking and tangling",
+      "Smooth rotation with minimal friction",
+      "Chrome plated option for visible installations"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 25
+  },
+  {
+    "id": "26",
+    "slug": "brass-hex-bolt",
+    "name": "Brass Hex Bolt M6–M20",
+    "categoryId": "fasteners",
+    "categorySlug": "fasteners",
+    "shortDescription": "Fully threaded hex head fastener for corrosion-resistant assemblies.",
+    "description": "Brass hex head bolt with full thread for non-magnetic, corrosion-resistant mechanical fastening. Manufactured from CZ121 brass per DIN 933 with precision-rolled threads. Ideal for electrical, marine, and decorative applications where steel fasteners are unsuitable.",
+    "image": "/images/products/26.jpg",
+    "gallery": ["/images/products/26.jpg", "/images/products/59.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "M6 – M20 × 12mm – 100mm",
+      "threadType": "ISO Metric Coarse (DIN 933)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Polished Brass"],
+      "weight": "5g – 120g (varies by size)",
+      "standard": "DIN 933, ISO 4017"
+    },
+    "applications": [
+      "Electrical enclosure assembly",
+      "Marine hardware and fittings",
+      "Decorative furniture and architectural hardware",
+      "Non-magnetic instrument assemblies",
+      "Chemical processing equipment"
+    ],
+    "features": [
+      "Fully threaded shank per DIN 933",
+      "Non-magnetic and non-sparking properties",
+      "Excellent corrosion resistance in marine environments",
+      "Precision-rolled ISO metric threads",
+      "Available in polished finish for decorative use"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 26
+  },
+  {
+    "id": "27",
+    "slug": "brass-machine-screw",
+    "name": "Brass Machine Screw",
+    "categoryId": "fasteners",
+    "categorySlug": "fasteners",
+    "shortDescription": "Precision slotted and Phillips head machine screw for light assemblies.",
+    "description": "Brass machine screw available in slotted, Phillips, and Pozidriv head styles for precision fastening in electrical, electronic, and decorative assemblies. Manufactured from CZ121 brass with rolled threads per DIN 84/965. Available in cheese head, countersunk, and pan head profiles.",
+    "image": "/images/products/27.jpg",
+    "gallery": ["/images/products/27.jpg", "/images/products/56.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "M2 – M10 × 4mm – 60mm",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Polished Brass"],
+      "weight": "0.5g – 25g (varies by size)",
+      "standard": "DIN 84, DIN 965, ISO 1207"
+    },
+    "applications": [
+      "Electrical switchgear assembly",
+      "Electronic enclosure fastening",
+      "Instrument and meter housing",
+      "Decorative furniture hardware"
+    ],
+    "features": [
+      "Multiple head styles: cheese, CSK, pan",
+      "Multiple drive types: slotted, Phillips, Pozi",
+      "Non-magnetic for sensitive electronic assemblies",
+      "Bright brass finish for decorative applications",
+      "Precision-rolled threads for accurate engagement"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 27
+  },
+  {
+    "id": "28",
+    "slug": "brass-hex-nut",
+    "name": "Brass Hex Nut",
+    "categoryId": "fasteners",
+    "categorySlug": "fasteners",
+    "shortDescription": "Standard and lock hex nut for non-magnetic, corrosion-resistant fastening.",
+    "description": "Brass hex nut in standard and nylon-insert lock nut variants for secure, corrosion-resistant threaded assemblies. Machined from CZ121 brass per DIN 934 with precision-tapped threads. Non-magnetic and non-sparking properties make them essential for electrical and hazardous area applications.",
+    "image": "/images/products/28.jpg",
+    "gallery": ["/images/products/28.jpg", "/images/products/57.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "M4 – M24",
+      "threadType": "ISO Metric Coarse (DIN 934)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Polished Brass"],
+      "weight": "1g – 55g (varies by size)",
+      "standard": "DIN 934, ISO 4032"
+    },
+    "applications": [
+      "Electrical terminal bolt assemblies",
+      "Marine and coastal hardware",
+      "Instrument and panel mounting",
+      "Hazardous area non-sparking assemblies"
+    ],
+    "features": [
+      "Standard hex and nylon-lock variants available",
+      "Non-magnetic and non-sparking brass alloy",
+      "Precision-tapped ISO metric threads",
+      "Corrosion-resistant for outdoor and marine use",
+      "Compatible with brass, steel, and stainless bolts"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 28
+  },
+  {
+    "id": "29",
+    "slug": "brass-flat-washer",
+    "name": "Brass Flat Washer",
+    "categoryId": "fasteners",
+    "categorySlug": "fasteners",
+    "shortDescription": "Large surface load distribution washer for protecting soft materials.",
+    "description": "Brass flat washer providing increased bearing surface area to distribute bolt/nut clamping loads and protect soft substrate materials. Manufactured from CZ108 brass sheet per DIN 125 with burr-free stamping. Prevents fastener pull-through and surface damage in electrical and decorative applications.",
+    "image": "/images/products/29.jpg",
+    "gallery": ["/images/products/29.jpg", "/images/products/58.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ108 Brass Sheet",
+      "sizeRange": "M4 – M24 (ID 4.3mm – 25mm)",
+      "threadType": "N/A (through-hole)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Polished Brass"],
+      "weight": "0.3g – 18g (varies by size)",
+      "standard": "DIN 125, ISO 7089"
+    },
+    "applications": [
+      "Electrical busbar bolt assemblies",
+      "Decorative furniture hardware spacing",
+      "Wooden surface fastener protection",
+      "Panel mounting load distribution"
+    ],
+    "features": [
+      "Stamped from solid brass sheet for consistency",
+      "Burr-free edges protect mating surfaces",
+      "Consistent thickness per DIN 125 standard",
+      "Non-magnetic and electrically conductive",
+      "Polished option for visible decorative use"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 29
+  },
+  {
+    "id": "30",
+    "slug": "brass-threaded-rod",
+    "name": "Brass Threaded Rod",
+    "categoryId": "fasteners",
+    "categorySlug": "fasteners",
+    "shortDescription": "Full-length threaded stud in 1-metre lengths for custom fastening solutions.",
+    "description": "Brass threaded rod with continuous ISO metric thread along the full 1-metre length for custom-length studs, hangers, and through-bolting applications. Manufactured from CZ121 brass with rolled threads for superior strength. Can be cut to any required length on site.",
+    "image": "/images/products/30.jpg",
+    "gallery": ["/images/products/30.jpg", "/images/products/56.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "M4 – M20 × 1000mm",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "25g – 1.8kg per metre (varies by size)",
+      "standard": "DIN 975, ISO 4017"
+    },
+    "applications": [
+      "Custom-length stud bolts",
+      "Ceiling and cable tray hangers",
+      "Through-bolting thick assemblies",
+      "Adjustable mounting and leveling"
+    ],
+    "features": [
+      "Full 1-metre continuous thread length",
+      "Easily cut to custom lengths on site",
+      "Rolled threads for superior tensile strength",
+      "Non-magnetic for sensitive environments",
+      "Compatible with standard brass hex nuts"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 30
+  },
+  {
+    "id": "31",
+    "slug": "brass-wing-nut",
+    "name": "Brass Wing Nut",
+    "categoryId": "fasteners",
+    "categorySlug": "fasteners",
+    "shortDescription": "Hand-tightenable butterfly nut for tool-free assembly and disassembly.",
+    "description": "Brass wing nut with two symmetrical wings for hand-tightening without tools. Ideal for applications requiring frequent assembly and disassembly such as access panels, inspection covers, and adjustable fixtures. Manufactured from CZ121 brass per DIN 315.",
+    "image": "/images/products/31.jpg",
+    "gallery": ["/images/products/31.jpg", "/images/products/57.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "M4 – M16",
+      "threadType": "ISO Metric Coarse (DIN 315)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Polished Brass"],
+      "weight": "2g – 40g (varies by size)",
+      "standard": "DIN 315, ISO 314"
+    },
+    "applications": [
+      "Inspection cover and access panel fastening",
+      "Adjustable fixture clamping",
+      "Craft and hobby project assembly",
+      "Display and exhibition stand assembly"
+    ],
+    "features": [
+      "Tool-free hand tightening and loosening",
+      "Symmetrical wing design for balanced grip",
+      "Non-magnetic and non-sparking brass alloy",
+      "Attractive natural brass or polished finish",
+      "Precision-tapped threads for smooth engagement"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 31
+  },
+  {
+    "id": "32",
+    "slug": "brass-anchor-bolt",
+    "name": "Brass Anchor Bolt",
+    "categoryId": "fasteners",
+    "categorySlug": "fasteners",
+    "shortDescription": "Expansion anchor for masonry and concrete fixings in corrosive environments.",
+    "description": "Brass expansion anchor bolt for secure fixing into masonry, concrete, and stone substrates. The expansion sleeve grips the drilled hole walls when the bolt is tightened, providing reliable pull-out resistance. Non-corrosive brass construction ideal for outdoor, coastal, and heritage building applications.",
+    "image": "/images/products/32.jpg",
+    "gallery": ["/images/products/32.jpg", "/images/products/59.jpg", "/images/products/56.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "M6 – M16 × 40mm – 120mm",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "12g – 145g (varies by size)",
+      "standard": "BS 7371-1, ETAG 001"
+    },
+    "applications": [
+      "Heritage and listed building restoration fixings",
+      "Coastal and marine environment anchoring",
+      "Stone cladding and masonry fixing",
+      "Outdoor signage and railing mounting"
+    ],
+    "features": [
+      "Expansion sleeve for reliable masonry grip",
+      "Non-corrosive brass for outdoor longevity",
+      "Non-magnetic and non-sparking properties",
+      "Suitable for concrete, stone, and solid masonry",
+      "High pull-out resistance in solid substrates"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 32
+  },
+  {
+    "id": "33",
+    "slug": "brass-knurled-insert",
+    "name": "Brass Knurled Threaded Insert",
+    "categoryId": "inserts",
+    "categorySlug": "inserts",
+    "shortDescription": "Press-in knurled insert for creating durable threads in plastic parts.",
+    "description": "Brass knurled threaded insert with diamond knurl pattern for press-in installation into pre-molded or drilled holes in plastic components. Provides strong, reusable metal threads in thermoplastic housings for repeated screw assembly. Available in straight knurl and tapered designs.",
+    "image": "/images/products/33.jpg",
+    "gallery": ["/images/products/33.jpg", "/images/products/60.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "M2 – M10 (internal thread)",
+      "threadType": "ISO Metric Coarse / Fine",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "0.3g – 8g (varies by size)",
+      "standard": "DIN 16903"
+    },
+    "applications": [
+      "Plastic enclosure screw bosses",
+      "Consumer electronics housings",
+      "Automotive interior trim panels",
+      "Medical device plastic housings"
+    ],
+    "features": [
+      "Diamond knurl pattern for maximum pull-out resistance",
+      "Straight and tapered installation profiles",
+      "Reusable metal threads in plastic substrates",
+      "Consistent installation depth and alignment",
+      "CNC-machined from free-cutting brass"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 33
+  },
+  {
+    "id": "34",
+    "slug": "brass-heat-set-insert",
+    "name": "Brass Heat-Set Insert",
+    "categoryId": "inserts",
+    "categorySlug": "inserts",
+    "shortDescription": "Thermal installation threaded insert for thermoplastic components.",
+    "description": "Brass heat-set insert designed for thermal installation using a heated soldering iron tip or dedicated installation tool. The insert melts into the surrounding plastic, and knurled features lock in place as the plastic resolidifies. Optimal for 3D-printed parts and injection-molded thermoplastic housings.",
+    "image": "/images/products/34.jpg",
+    "gallery": ["/images/products/34.jpg", "/images/products/56.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "M2 – M8 (internal thread)",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "0.2g – 5g (varies by size)",
+      "standard": "DIN 16903"
+    },
+    "applications": [
+      "3D-printed part thread reinforcement",
+      "Injection-molded plastic assemblies",
+      "Prototype and low-volume production",
+      "Consumer product housings"
+    ],
+    "features": [
+      "Thermal installation melts into surrounding plastic",
+      "Helical knurl locks insert after cooling",
+      "Superior pull-out and torque resistance",
+      "Compatible with standard soldering iron tips",
+      "Ideal for ABS, PLA, Nylon, and PEEK plastics"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 34
+  },
+  {
+    "id": "35",
+    "slug": "brass-ultrasonic-insert",
+    "name": "Brass Ultrasonic Insert",
+    "categoryId": "inserts",
+    "categorySlug": "inserts",
+    "shortDescription": "Vibration welded insert for high-volume injection molding applications.",
+    "description": "Brass ultrasonic insert engineered for installation via ultrasonic welding equipment in high-volume injection molding production. Ultrasonic horn vibrations generate friction heat that melts the plastic around the insert for rapid, consistent installation. Features optimized geometry for ultrasonic energy transfer.",
+    "image": "/images/products/35.jpg",
+    "gallery": ["/images/products/35.jpg", "/images/products/57.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "M2.5 – M8 (internal thread)",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "0.3g – 6g (varies by size)",
+      "standard": "DIN 16903"
+    },
+    "applications": [
+      "High-volume injection molding production",
+      "Automotive component assemblies",
+      "Consumer electronics manufacturing",
+      "White goods and appliance housings"
+    ],
+    "features": [
+      "Optimized geometry for ultrasonic energy transfer",
+      "Sub-second installation cycle times",
+      "Consistent installation depth in mass production",
+      "Cross-knurl pattern for maximum retention",
+      "Clean, flash-free installation"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 35
+  },
+  {
+    "id": "36",
+    "slug": "brass-press-in-insert",
+    "name": "Brass Press-In Insert",
+    "categoryId": "inserts",
+    "categorySlug": "inserts",
+    "shortDescription": "Cold press installation insert for plastic and metal substrates.",
+    "description": "Brass press-in insert for cold installation into pre-drilled or molded holes using an arbor press or insertion tool. Serrated knurl provides mechanical grip without heat, making it suitable for heat-sensitive plastics and thin metal sheets. Simple installation process with no specialized equipment required.",
+    "image": "/images/products/36.jpg",
+    "gallery": ["/images/products/36.jpg", "/images/products/60.jpg", "/images/products/56.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "M3 – M12 (internal thread)",
+      "threadType": "ISO Metric Coarse / Fine",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "0.4g – 10g (varies by size)",
+      "standard": "DIN 16903"
+    },
+    "applications": [
+      "Heat-sensitive plastic assemblies",
+      "Thin sheet metal thread reinforcement",
+      "PCB mounting standoff nuts",
+      "Low-volume production and prototyping"
+    ],
+    "features": [
+      "Cold press installation — no heat required",
+      "Serrated knurl for mechanical locking",
+      "Simple arbor press or hand tool installation",
+      "Suitable for thermoset and thermoplastic materials",
+      "Consistent and repeatable installation"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 36
+  },
+  {
+    "id": "37",
+    "slug": "brass-self-tapping-insert",
+    "name": "Brass Self-Tapping Insert",
+    "categoryId": "inserts",
+    "categorySlug": "inserts",
+    "shortDescription": "Thread-cutting insert for soft materials without pre-tapping.",
+    "description": "Brass self-tapping insert with external cutting thread that taps its own path into pre-drilled pilot holes in wood, soft metals, and plastics. Eliminates the need for pre-tapped holes, reducing installation steps. Internal ISO metric thread provides strong, reusable machine screw engagement.",
+    "image": "/images/products/37.jpg",
+    "gallery": ["/images/products/37.jpg", "/images/products/57.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "M3 – M10 (internal thread)",
+      "threadType": "ISO Metric (internal), Self-tapping (external)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "0.5g – 12g (varies by size)",
+      "standard": "DIN 7965"
+    },
+    "applications": [
+      "Wooden furniture assembly",
+      "Soft metal thread reinforcement",
+      "Plastic component repair",
+      "Speaker cabinet and musical instrument hardware"
+    ],
+    "features": [
+      "Self-tapping external thread — no pre-tapping needed",
+      "Slotted drive for screwdriver installation",
+      "Strong internal ISO metric thread",
+      "Ideal for wood, plastic, and soft alloys",
+      "Reusable metal threads in soft substrates"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "order": 37
+  },
+  {
+    "id": "38",
+    "slug": "brass-expansion-insert",
+    "name": "Brass Expansion Insert",
+    "categoryId": "inserts",
+    "categorySlug": "inserts",
+    "shortDescription": "Blind hole expansion anchor insert for high pull-out strength.",
+    "description": "Brass expansion insert that expands into the surrounding material when the internal screw is tightened, providing high pull-out resistance in blind hole applications. Segmented body design allows controlled radial expansion for consistent clamping force. Suitable for plastics, wood, and composite materials.",
+    "image": "/images/products/38.jpg",
+    "gallery": ["/images/products/38.jpg", "/images/products/58.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "M4 – M10 (internal thread)",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 150°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "1g – 15g (varies by size)",
+      "standard": "DIN 16903"
+    },
+    "applications": [
+      "Blind hole fixings in composite panels",
+      "Furniture knockdown fittings",
+      "Retrofit thread inserts in plastic parts",
+      "Wooden panel through-fixing"
+    ],
+    "features": [
+      "Segmented body for controlled radial expansion",
+      "High pull-out resistance in blind holes",
+      "No special tools required for installation",
+      "Suitable for plastics, wood, and composites",
+      "Flush-mount installation for clean appearance"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 38
+  },
+  {
+    "id": "39",
+    "slug": "brass-precision-shaft",
+    "name": "Brass Precision Shaft",
+    "categoryId": "turned-parts",
+    "categorySlug": "turned-parts",
+    "shortDescription": "CNC-turned smooth shaft component available in custom lengths and diameters.",
+    "description": "Precision CNC-turned brass shaft manufactured from CZ121 free-cutting brass to tight diameter tolerances (h6/h7). Ground and polished surface finish for smooth bearing engagement. Available in standard and custom lengths with optional threading, grooving, or cross-drilling per customer specification.",
+    "image": "/images/products/39.jpg",
+    "gallery": ["/images/products/39.jpg", "/images/products/60.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N) Free-Cutting Brass",
+      "sizeRange": "3mm – 50mm diameter, up to 500mm length",
+      "threadType": "Custom (as specified)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Polished"],
+      "weight": "Custom (varies by dimensions)",
+      "standard": "ISO 286 (h6/h7 tolerance), BS EN 12164"
+    },
+    "applications": [
+      "Rotating machinery shaft components",
+      "Instrument pivot and actuator shafts",
+      "Printer and plotter roller shafts",
+      "Custom automation equipment"
+    ],
+    "features": [
+      "CNC-turned to h6/h7 diameter tolerance",
+      "Ground and polished surface finish",
+      "Custom lengths, threading, and features available",
+      "Free-cutting brass for excellent machinability",
+      "Consistent concentricity and straightness"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 39
+  },
+  {
+    "id": "40",
+    "slug": "brass-spacer-standoff",
+    "name": "Brass Spacer / Standoff",
+    "categoryId": "turned-parts",
+    "categorySlug": "turned-parts",
+    "shortDescription": "PCB and panel spacing component with male/female thread options.",
+    "description": "Brass spacer and standoff for maintaining precise separation between PCBs, panels, or components. Available in male-female, female-female, and male-male thread configurations with hex or round body profiles. CNC-turned from CZ360 brass with exact length tolerances for consistent stack-up assemblies.",
+    "image": "/images/products/40.jpg",
+    "gallery": ["/images/products/40.jpg", "/images/products/56.jpg", "/images/products/57.jpg"],
+    "specifications": {
+      "material": "CZ360 Free-Cutting Brass",
+      "sizeRange": "M2 – M6 thread, 3mm – 50mm length",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Tin Plated"],
+      "weight": "0.5g – 15g (varies by size)",
+      "standard": "DIN 6334 (modified)"
+    },
+    "applications": [
+      "PCB mounting and board-to-board spacing",
+      "Control panel component separation",
+      "Electronic enclosure internal mounting",
+      "LED and display module spacing"
+    ],
+    "features": [
+      "Available in M/F, F/F, and M/M thread combinations",
+      "Hex and round body profiles available",
+      "Precise length tolerance for stack-up accuracy",
+      "Tin plated option for solder compatibility",
+      "CNC-turned for consistent quality"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 40
+  },
+  {
+    "id": "41",
+    "slug": "brass-dowel-pin",
+    "name": "Brass Dowel Pin",
+    "categoryId": "turned-parts",
+    "categorySlug": "turned-parts",
+    "shortDescription": "Precision alignment pin with h6/h7 tolerance for accurate positioning.",
+    "description": "Brass dowel pin manufactured to h6/h7 precision tolerance for accurate component alignment and location in assemblies. Ground and lapped to ensure consistent diameter and surface finish. Chamfered ends for easy insertion into reamed holes. Non-magnetic construction for sensitive instruments.",
+    "image": "/images/products/41.jpg",
+    "gallery": ["/images/products/41.jpg", "/images/products/58.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "2mm – 20mm diameter × 6mm – 80mm length",
+      "threadType": "N/A (plain pin)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Polished"],
+      "weight": "0.2g – 40g (varies by size)",
+      "standard": "ISO 8734, DIN 6325"
+    },
+    "applications": [
+      "Jig and fixture alignment",
+      "Mold and die component location",
+      "Instrument mechanism pivot points",
+      "Precision assembly positioning"
+    ],
+    "features": [
+      "h6/h7 precision diameter tolerance",
+      "Ground and lapped surface finish",
+      "Chamfered ends for easy insertion",
+      "Non-magnetic for sensitive applications",
+      "Consistent lot-to-lot dimensional accuracy"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 41
+  },
+  {
+    "id": "42",
+    "slug": "brass-sleeve-bushing",
+    "name": "Brass Sleeve Bushing",
+    "categoryId": "turned-parts",
+    "categorySlug": "turned-parts",
+    "shortDescription": "Plain bearing sleeve for rotating shafts with self-lubricating properties.",
+    "description": "Brass sleeve bushing functioning as a plain bearing for rotating shafts, providing a low-friction, self-lubricating contact surface. CNC-turned from CZ121 brass with precision bore and outer diameter tolerances. Oil grooves can be added for enhanced lubrication in high-speed or high-load applications.",
+    "image": "/images/products/42.jpg",
+    "gallery": ["/images/products/42.jpg", "/images/products/59.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "6mm – 60mm bore × 8mm – 70mm OD",
+      "threadType": "N/A (plain bore)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Self-Lubricating (graphite filled)"],
+      "weight": "2g – 250g (varies by size)",
+      "standard": "ISO 4379, DIN 1850"
+    },
+    "applications": [
+      "Electric motor bearing housings",
+      "Pump and compressor shaft support",
+      "Agricultural equipment pivot points",
+      "Industrial conveyor roller bearings"
+    ],
+    "features": [
+      "Self-lubricating brass alloy reduces friction",
+      "Precision bore tolerance for shaft compatibility",
+      "Optional oil grooves for enhanced lubrication",
+      "Low-cost alternative to roller bearings",
+      "Easy press-fit installation"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 42
+  },
+  {
+    "id": "43",
+    "slug": "brass-knurled-thumb-screw",
+    "name": "Brass Knurled Thumb Screw",
+    "categoryId": "turned-parts",
+    "categorySlug": "turned-parts",
+    "shortDescription": "Hand-tightenable grip screw with knurled head for tool-free operation.",
+    "description": "Brass knurled thumb screw with diamond-pattern knurled head for secure hand-grip tightening without tools. CNC-turned from CZ121 brass with precision ISO metric thread and large-diameter knurled head. Ideal for access panels, instrument cases, and any application requiring frequent adjustment.",
+    "image": "/images/products/43.jpg",
+    "gallery": ["/images/products/43.jpg", "/images/products/56.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "M3 – M10 × 6mm – 30mm",
+      "threadType": "ISO Metric Coarse",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 200°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Polished Brass"],
+      "weight": "3g – 35g (varies by size)",
+      "standard": "DIN 464"
+    },
+    "applications": [
+      "Instrument enclosure access panels",
+      "Camera and tripod mounting",
+      "Laboratory equipment adjustment",
+      "Audio and musical equipment assembly"
+    ],
+    "features": [
+      "Diamond knurl pattern for secure finger grip",
+      "Tool-free hand tightening operation",
+      "Large head diameter for easy manipulation",
+      "CNC-turned for consistent quality",
+      "Polished option for decorative applications"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 43
+  },
+  {
+    "id": "44",
+    "slug": "brass-contact-pin",
+    "name": "Brass Contact Pin",
+    "categoryId": "turned-parts",
+    "categorySlug": "turned-parts",
+    "shortDescription": "Electrical connector contact pin with precision-turned tip profiles.",
+    "description": "Precision CNC-turned brass contact pin for electrical connector and socket assemblies. Manufactured from high-conductivity CZ108 or CZ121 brass with gold, silver, or tin plating for optimal contact resistance. Available in multiple tip profiles including pointed, radius, and flat for different mating requirements.",
+    "image": "/images/products/44.jpg",
+    "gallery": ["/images/products/44.jpg", "/images/products/57.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ108 / CZ121 High-Conductivity Brass",
+      "sizeRange": "0.5mm – 2.5mm diameter, 5mm – 30mm length",
+      "threadType": "N/A (press-fit / solder)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 125°C",
+      "finishOptions": ["Gold Plated", "Silver Plated", "Tin Plated", "Nickel Plated"],
+      "weight": "0.05g – 2g (varies by size)",
+      "standard": "IEC 60352, MIL-C-39029"
+    },
+    "applications": [
+      "Automotive electrical connectors",
+      "PCB header pin assemblies",
+      "Industrial multi-pin connector systems",
+      "Test fixture pogo pin contacts"
+    ],
+    "features": [
+      "High-conductivity brass for low contact resistance",
+      "Multiple tip profiles for different mating styles",
+      "Precious metal plating for reliable contact",
+      "Swiss-type CNC turning for micro-diameter precision",
+      "100% electrical continuity tested"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 44
+  },
+  {
+    "id": "45",
+    "slug": "brass-stop-valve",
+    "name": "Brass Compression Stop Valve",
+    "categoryId": "plumbing",
+    "categorySlug": "plumbing",
+    "shortDescription": "Inline service isolation valve with compression fittings for copper tube.",
+    "description": "Brass compression stop valve for inline isolation of water supply services. Features compression inlet and outlet connections for direct jointing to copper tube without soldering. Quarter-turn or multi-turn operation depending on model. WRAS approved for potable water systems.",
+    "image": "/images/products/45.jpg",
+    "gallery": ["/images/products/45.jpg", "/images/products/58.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CW617N Forged Brass",
+      "sizeRange": "15mm – 28mm compression",
+      "threadType": "Compression (BS EN 1254-2)",
+      "pressureRating": "16 bar",
+      "temperatureRange": "-10°C to 110°C",
+      "finishOptions": ["Chrome Plated", "Natural Brass"],
+      "weight": "95g – 380g (varies by size)",
+      "standard": "BS 1010, WRAS Approved"
+    },
+    "applications": [
+      "Under-sink water supply isolation",
+      "Washing machine and dishwasher supply points",
+      "Radiator isolation for maintenance",
+      "Water heater service valves"
+    ],
+    "features": [
+      "Compression connections — no soldering required",
+      "WRAS approved for drinking water systems",
+      "Chrome plated for exposed installations",
+      "Quarter-turn or multi-turn operation",
+      "Integral compression olive for reliable seal"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 45
+  },
+  {
+    "id": "46",
+    "slug": "brass-p-trap",
+    "name": "Brass P-Trap Body",
+    "categoryId": "plumbing",
+    "categorySlug": "plumbing",
+    "shortDescription": "Sanitary waste trap component preventing sewer gas entry, 32mm/40mm.",
+    "description": "Brass P-trap body forming the water seal in sanitary waste piping to prevent sewer gases from entering the building. Available in 32mm and 40mm outlet sizes for basin and bath waste applications. Chrome plated for exposed installations with compression or threaded connections.",
+    "image": "/images/products/46.jpg",
+    "gallery": ["/images/products/46.jpg", "/images/products/56.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ132 Brass (Cast/Machined)",
+      "sizeRange": "32mm (1-1/4\") and 40mm (1-1/2\")",
+      "threadType": "Compression / BSP Threaded",
+      "pressureRating": "Gravity (non-pressure)",
+      "temperatureRange": "0°C to 95°C",
+      "finishOptions": ["Chrome Plated", "Polished Brass", "Antique Brass"],
+      "weight": "180g – 450g (varies by size)",
+      "standard": "BS EN 274, BS 3943"
+    },
+    "applications": [
+      "Bathroom basin waste connections",
+      "Kitchen sink drainage",
+      "Bath and shower waste traps",
+      "Commercial washroom installations"
+    ],
+    "features": [
+      "75mm water seal depth prevents sewer gas ingress",
+      "Chrome plated for exposed under-basin fitting",
+      "Integral cleaning eye for blockage clearing",
+      "Standard compression connections for easy fitting",
+      "Available in decorative finishes for period properties"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 46
+  },
+  {
+    "id": "47",
+    "slug": "brass-floor-drain",
+    "name": "Brass Floor Drain Body",
+    "categoryId": "plumbing",
+    "categorySlug": "plumbing",
+    "shortDescription": "Recessed floor waste fitting with removable strainer grate.",
+    "description": "Brass floor drain body for recessed installation in concrete or tiled floors to collect surface water and direct it to the drainage system. Features a removable brass strainer grate with anti-debris slots. Integral trap body maintains water seal for odour prevention in wet rooms and commercial kitchens.",
+    "image": "/images/products/47.jpg",
+    "gallery": ["/images/products/47.jpg", "/images/products/57.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ132 Cast Brass",
+      "sizeRange": "100mm × 100mm and 150mm × 150mm grate",
+      "threadType": "BSP Outlet (50mm / 100mm)",
+      "pressureRating": "Gravity (non-pressure)",
+      "temperatureRange": "0°C to 95°C",
+      "finishOptions": ["Polished Brass", "Satin Brass", "Chrome Plated"],
+      "weight": "350g – 1.2kg (varies by size)",
+      "standard": "BS EN 1253, AS 3688"
+    },
+    "applications": [
+      "Wet room and shower floor drainage",
+      "Commercial kitchen floor drains",
+      "Plant room and utility area drainage",
+      "Swimming pool surround drainage"
+    ],
+    "features": [
+      "Removable strainer grate for cleaning access",
+      "Integral trap body for odour prevention",
+      "Recessed design for flush floor installation",
+      "Anti-debris slot profile prevents blockages",
+      "Heavy-duty cast brass construction"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 47
+  },
+  {
+    "id": "48",
+    "slug": "brass-shower-arm",
+    "name": "Brass Shower Arm Connector",
+    "categoryId": "plumbing",
+    "categorySlug": "plumbing",
+    "shortDescription": "Wall to shower head elbow fitting with decorative finish.",
+    "description": "Brass shower arm connector forming the visible bridge between the in-wall water supply and the shower head. Typically an angled or straight tube with BSP male wall connection and BSP female shower head connection. Available in multiple decorative finishes to match modern and traditional bathroom aesthetics.",
+    "image": "/images/products/48.jpg",
+    "gallery": ["/images/products/48.jpg", "/images/products/58.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ121 Brass Tube / Forged Elbow",
+      "sizeRange": "1/2\" BSP × 150mm – 400mm length",
+      "threadType": "BSP Male (wall) / BSP Female (shower head)",
+      "pressureRating": "10 bar",
+      "temperatureRange": "0°C to 80°C",
+      "finishOptions": ["Chrome Plated", "Brushed Nickel", "Polished Brass", "Matte Black"],
+      "weight": "120g – 350g (varies by length)",
+      "standard": "BS EN 1111, BS 6340"
+    },
+    "applications": [
+      "Fixed shower head wall connection",
+      "Rain shower ceiling mount arm",
+      "Bathroom renovation and upgrade",
+      "Hotel and commercial shower installations"
+    ],
+    "features": [
+      "Multiple decorative finish options",
+      "Standard 1/2\" BSP connections",
+      "Precision-formed brass tube for strength",
+      "Integral flange covers wall entry point",
+      "Available in straight, angled, and curved profiles"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "order": 48
+  },
+  {
+    "id": "49",
+    "slug": "brass-water-meter-body",
+    "name": "Brass Water Meter Body",
+    "categoryId": "plumbing",
+    "categorySlug": "plumbing",
+    "shortDescription": "Precision flow measurement housing for residential and commercial meters.",
+    "description": "Brass water meter body providing the precision-machined housing for turbine or volumetric water metering mechanisms. Features accurate flow passages, register mounting provisions, and BSP threaded connections. Manufactured from lead-free brass for potable water compliance with dimensional accuracy for meter cartridge interchange.",
+    "image": "/images/products/49.jpg",
+    "gallery": ["/images/products/49.jpg", "/images/products/56.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CW510L Lead-Free Brass",
+      "sizeRange": "DN15 – DN50 (1/2\" – 2\")",
+      "threadType": "BSP Female",
+      "pressureRating": "16 bar (PN16)",
+      "temperatureRange": "0°C to 90°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "250g – 2.5kg (varies by size)",
+      "standard": "ISO 4064, BS EN 14154, MID 2004/22/EC"
+    },
+    "applications": [
+      "Domestic water supply metering",
+      "Commercial building water measurement",
+      "Industrial water consumption monitoring",
+      "Sub-metering for billing purposes"
+    ],
+    "features": [
+      "Lead-free brass for drinking water compliance",
+      "Precision-machined flow passages for accuracy",
+      "Standard cartridge compatibility for interchangeability",
+      "Tamper-evident seal wire provisions",
+      "MID certified for fiscal metering"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 49
+  },
+  {
+    "id": "50",
+    "slug": "brass-tap-spindle",
+    "name": "Brass Tap Spindle",
+    "categoryId": "plumbing",
+    "categorySlug": "plumbing",
+    "shortDescription": "Ceramic disc or rubber tap cartridge spindle for faucet internals.",
+    "description": "Brass tap spindle serving as the central operating component of kitchen and bathroom faucets. Available in traditional rising spindle (with rubber washer) and modern ceramic disc quarter-turn configurations. CNC-turned from CZ121 brass with precision thread and spline features for handle engagement.",
+    "image": "/images/products/50.jpg",
+    "gallery": ["/images/products/50.jpg", "/images/products/57.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N)",
+      "sizeRange": "1/2\" BSP cartridge body, various stem lengths",
+      "threadType": "BSP / Custom spline",
+      "pressureRating": "10 bar",
+      "temperatureRange": "0°C to 90°C",
+      "finishOptions": ["Natural Brass", "Chrome Plated"],
+      "weight": "25g – 85g (varies by type)",
+      "standard": "BS 1010, BS 5412"
+    },
+    "applications": [
+      "Kitchen mixer tap cartridge replacement",
+      "Bathroom basin tap internals",
+      "Bath filler valve mechanisms",
+      "Commercial washroom tap maintenance"
+    ],
+    "features": [
+      "Available in rubber washer and ceramic disc types",
+      "Quarter-turn ceramic disc for modern taps",
+      "Precision-machined handle spline interface",
+      "Compatible with major tap manufacturer formats",
+      "CNC-turned for dimensional consistency"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 50
+  },
+  {
+    "id": "51",
+    "slug": "brass-cable-gland",
+    "name": "Brass Cable Gland",
+    "categoryId": "electrical",
+    "categorySlug": "electrical",
+    "shortDescription": "IP68 rated cable entry gland for armored and unarmored cables.",
+    "description": "Brass cable gland providing IP68-rated ingress protection for cable entries into electrical enclosures, junction boxes, and control panels. Available for armored (SWA) and unarmored cable types with integral strain relief and earth continuity. Nickel plated for corrosion resistance in harsh environments.",
+    "image": "/images/products/51.jpg",
+    "gallery": ["/images/products/51.jpg", "/images/products/59.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CW614N Nickel Plated Brass",
+      "sizeRange": "M16 – M63 (cable OD 5mm – 52mm)",
+      "threadType": "ISO Metric (M thread), PG, NPT options",
+      "pressureRating": "IP68 (5 bar submersion test)",
+      "temperatureRange": "-40°C to 80°C",
+      "finishOptions": ["Nickel Plated", "Natural Brass"],
+      "weight": "20g – 450g (varies by size)",
+      "standard": "BS EN 62444, IEC 62444, BS 6121"
+    },
+    "applications": [
+      "Electrical panel and enclosure cable entry",
+      "Hazardous area equipment wiring (Ex zones)",
+      "Marine and offshore electrical installations",
+      "Industrial machinery cable termination"
+    ],
+    "features": [
+      "IP68 ingress protection rating",
+      "Available for armored and unarmored cables",
+      "Integral earth continuity for SWA cables",
+      "Neoprene sealing ring for environmental protection",
+      "Nickel plated for corrosion resistance"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "order": 51
+  },
+  {
+    "id": "52",
+    "slug": "brass-terminal-connector",
+    "name": "Brass Terminal Connector",
+    "categoryId": "electrical",
+    "categorySlug": "electrical",
+    "shortDescription": "Pillar and tunnel type electrical terminal for wire termination.",
+    "description": "Brass terminal connector block in pillar (vertical entry) and tunnel (horizontal entry) configurations for secure electrical wire termination. Precision-turned brass body with clamping screw provides reliable, low-resistance electrical contact. Available in single and multi-way configurations for distribution panels.",
+    "image": "/images/products/52.jpg",
+    "gallery": ["/images/products/52.jpg", "/images/products/56.jpg", "/images/products/59.jpg"],
+    "specifications": {
+      "material": "CZ121 (CW614N) / CZ108 High-Conductivity",
+      "sizeRange": "16A – 125A rated, 1.5mm² – 35mm² conductor",
+      "threadType": "M3.5 – M8 clamping screw",
+      "pressureRating": "N/A",
+      "temperatureRange": "-25°C to 120°C",
+      "finishOptions": ["Natural Brass", "Nickel Plated", "Tin Plated"],
+      "weight": "3g – 85g (varies by size)",
+      "standard": "BS EN 60947-7-1, IEC 60947"
+    },
+    "applications": [
+      "Distribution board wire termination",
+      "Control panel connection points",
+      "Lighting circuit terminal blocks",
+      "Motor starter wiring terminals"
+    ],
+    "features": [
+      "Pillar and tunnel entry configurations",
+      "Low-resistance brass contact body",
+      "Captive clamping screw design",
+      "High current carrying capacity",
+      "Available in multi-way configurations"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 52
+  },
+  {
+    "id": "53",
+    "slug": "brass-earth-rod-clamp",
+    "name": "Brass Earth Rod Clamp",
+    "categoryId": "electrical",
+    "categorySlug": "electrical",
+    "shortDescription": "Tape-to-rod earthing bond connector for grounding systems.",
+    "description": "Brass earth rod clamp designed for bonding copper earth tapes or cables to driven earth rods in grounding and lightning protection systems. Precision-cast or machined brass body with stainless steel clamping bolts for reliable, low-impedance earth connections. Designed to withstand fault currents without degradation.",
+    "image": "/images/products/53.jpg",
+    "gallery": ["/images/products/53.jpg", "/images/products/57.jpg", "/images/products/60.jpg"],
+    "specifications": {
+      "material": "CZ131 Cast Brass / CW614N Machined",
+      "sizeRange": "5/8\" and 3/4\" earth rod, 25mm × 3mm tape",
+      "threadType": "M8 / M10 SS clamping bolts",
+      "pressureRating": "N/A",
+      "temperatureRange": "-40°C to 80°C",
+      "finishOptions": ["Natural Brass"],
+      "weight": "65g – 280g (varies by type)",
+      "standard": "BS EN 62561-1, IEC 62561, BS 7430"
+    },
+    "applications": [
+      "Electrical earthing system rod connections",
+      "Lightning protection earth terminations",
+      "Substation grounding grid bonds",
+      "Telecommunications tower earthing"
+    ],
+    "features": [
+      "Secure tape-to-rod earthing bond",
+      "Stainless steel clamping bolts resist corrosion",
+      "Designed for fault current withstand capacity",
+      "Compatible with standard driven earth rods",
+      "Low-impedance brass for effective grounding"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 53
+  },
+  {
+    "id": "54",
+    "slug": "brass-neutral-link",
+    "name": "Brass Neutral Link Bar",
+    "categoryId": "electrical",
+    "categorySlug": "electrical",
+    "shortDescription": "Multi-way electrical neutral distribution bar for panel boards.",
+    "description": "Brass neutral link bar providing multiple connection points for neutral conductor distribution within electrical panel boards and consumer units. Precision-machined from high-conductivity CZ108 brass with individually tapped and labelled connection holes. Available in 4-way to 20-way configurations.",
+    "image": "/images/products/54.jpg",
+    "gallery": ["/images/products/54.jpg", "/images/products/58.jpg", "/images/products/61.jpg"],
+    "specifications": {
+      "material": "CZ108 High-Conductivity Brass",
+      "sizeRange": "4-way to 20-way, 100A – 400A rated",
+      "threadType": "M4 – M8 tapped holes",
+      "pressureRating": "N/A",
+      "temperatureRange": "-25°C to 120°C",
+      "finishOptions": ["Natural Brass", "Tin Plated"],
+      "weight": "50g – 600g (varies by ways)",
+      "standard": "BS EN 61439-1, IEC 61439"
+    },
+    "applications": [
+      "Consumer unit neutral distribution",
+      "Industrial panel board neutral bars",
+      "Generator changeover switch neutrals",
+      "Data centre power distribution units"
+    ],
+    "features": [
+      "High-conductivity brass for low voltage drop",
+      "Individually tapped connections per way",
+      "Mounting holes for DIN rail or panel fixing",
+      "Available in 4-way to 20-way configurations",
+      "Tin plated option for enhanced contact resistance"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 54
+  },
+  {
+    "id": "55",
+    "slug": "brass-switchgear-contact",
+    "name": "Brass Switchgear Contact",
+    "categoryId": "electrical",
+    "categorySlug": "electrical",
+    "shortDescription": "Precision CNC-machined contact component for switchgear assemblies.",
+    "description": "Brass switchgear contact manufactured by precision CNC turning and milling for use in circuit breakers, contactors, and switch disconnectors. High-conductivity CZ108 brass body with silver or silver-nickel contact tip for reliable arc resistance and low contact resistance over thousands of switching cycles.",
+    "image": "/images/products/55.jpg",
+    "gallery": ["/images/products/55.jpg", "/images/products/56.jpg", "/images/products/58.jpg"],
+    "specifications": {
+      "material": "CZ108 High-Conductivity Brass + Silver Contact Tip",
+      "sizeRange": "Custom per switchgear OEM specification",
+      "threadType": "N/A (bolted or riveted assembly)",
+      "pressureRating": "N/A",
+      "temperatureRange": "-25°C to 150°C",
+      "finishOptions": ["Silver Plated", "Natural Brass", "Tin Plated"],
+      "weight": "5g – 250g (varies by specification)",
+      "standard": "IEC 60947-1, BS EN 60947-3"
+    },
+    "applications": [
+      "Low-voltage circuit breaker contacts",
+      "Contactor main and auxiliary contacts",
+      "Switch disconnector blade contacts",
+      "Motor starter contactor assemblies"
+    ],
+    "features": [
+      "Silver or AgNi contact tip for arc resistance",
+      "High-conductivity brass body minimises losses",
+      "CNC-machined for tight dimensional tolerances",
+      "Designed for high switching cycle endurance",
+      "Custom profiles per OEM specification"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "order": 55
+  }
+]

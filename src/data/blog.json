@@ -1,0 +1,67 @@
+[
+  {
+    "id": "blog-1",
+    "slug": "why-brass-for-plumbing",
+    "title": "Why Brass Remains the Gold Standard for Plumbing Components",
+    "excerpt": "Discover why brass continues to be the preferred material for plumbing fittings and valves across residential and commercial installations worldwide.",
+    "content": "Brass has been the material of choice for plumbing components for centuries, and modern engineering has only reinforced its position. The unique combination of corrosion resistance, machinability, and antimicrobial properties makes brass alloys like CZ121 and CW614N ideal for water-contact applications.\n\nUnlike plastic alternatives, brass fittings maintain their structural integrity under sustained pressure and temperature cycling. A well-manufactured brass compression fitting can deliver leak-free performance for 50+ years in potable water systems, far outlasting its initial cost premium.\n\nThe dezincification-resistant (DZR) brass alloys now available address historical concerns about zinc leaching in aggressive water conditions. Modern brass plumbing components meet stringent standards including BS EN 1254, NSF/ANSI 372, and WRAS approval for drinking water safety.\n\nFrom a sustainability perspective, brass is 100% recyclable without loss of properties. The brass recycling industry recovers millions of tonnes annually, making brass plumbing components part of a truly circular economy. When specifying materials for critical plumbing infrastructure, brass delivers unmatched long-term value.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=800&q=80",
+    "author": "Amit Shah",
+    "publishedAt": "2025-01-15",
+    "readTime": "5 min read",
+    "tags": ["Plumbing", "Brass Alloys", "Material Science"],
+    "category": "Technical"
+  },
+  {
+    "id": "blog-2",
+    "slug": "cnc-turning-vs-forging-brass",
+    "title": "CNC Turning vs Hot Forging: Choosing the Right Process for Brass Parts",
+    "excerpt": "A comprehensive comparison of CNC turning and hot forging processes for brass component manufacturing, helping you select the optimal method.",
+    "content": "When manufacturing brass components, selecting between CNC turning and hot forging depends on part geometry, production volume, mechanical requirements, and cost targets. Both processes have distinct advantages that make them optimal for different applications.\n\nCNC turning excels at producing cylindrical and rotationally symmetric parts with tight tolerances (±0.01mm). It is ideal for threaded fittings, precision shafts, connector pins, and components requiring fine surface finishes. Setup costs are moderate, making CNC turning economical for batch sizes from 100 to 100,000 pieces.\n\nHot forging, by contrast, produces parts with superior mechanical properties due to grain flow alignment. Forged brass valves and fittings exhibit higher tensile strength and pressure resistance compared to machined equivalents. The near-net-shape forging process also reduces material waste by up to 40% for complex geometries.\n\nMany high-performance brass components benefit from a combined approach: hot forging for the primary shape followed by CNC machining for critical dimensions, threads, and surface finish. This hybrid process delivers both the strength advantages of forging and the precision of CNC machining.\n\nAt BrassCraft Industries, our integrated facility enables us to recommend and execute the optimal manufacturing route for each component, ensuring the best balance of quality, performance, and cost-effectiveness.",
+    "image": "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?w=800&q=80",
+    "author": "Rajesh Patel",
+    "publishedAt": "2025-02-01",
+    "readTime": "7 min read",
+    "tags": ["CNC Machining", "Forging", "Manufacturing"],
+    "category": "Manufacturing"
+  },
+  {
+    "id": "blog-3",
+    "slug": "export-packaging-standards-brass",
+    "title": "Export Packaging Standards for Brass Components: A Complete Guide",
+    "excerpt": "Learn about international packaging requirements for shipping brass components safely across borders, including VCI protection and compliance standards.",
+    "content": "Proper packaging is critical when exporting brass components to ensure they arrive at their destination in perfect condition. International shipments face challenges including humidity, salt air exposure during sea freight, and mechanical handling during transit.\n\nVapour Corrosion Inhibitor (VCI) packaging is the industry standard for protecting brass components during shipping. VCI films and papers release invisible molecules that form a protective layer on metal surfaces, preventing oxidation and tarnishing without direct contact. This eliminates the need for messy oils or greases.\n\nPackaging layers for export-grade brass shipments typically include: individual poly bags for small components, VCI paper wrapping for surface protection, corrugated inner boxes with dividers, and heavy-duty outer cartons or wooden pallets for container loading.\n\nCompliance with ISPM-15 phytosanitary standards is mandatory for wooden packaging in international trade. Heat-treated or fumigation-free pallets stamped with the IPPC mark are required by most importing countries to prevent pest transmission.\n\nLabeling requirements vary by destination but generally include part numbers, quantities, gross/net weights, country of origin marking, and any required certification marks (CE, RoHS). Barcoding and QR codes linking to material test certificates are increasingly expected by major OEM customers.\n\nAt BrassCraft Industries, our dedicated packaging department handles all export requirements including documentation, customs compliance, and freight coordination to over 45 countries.",
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=800&q=80",
+    "author": "Priya Mehta",
+    "publishedAt": "2025-02-10",
+    "readTime": "6 min read",
+    "tags": ["Export", "Packaging", "Logistics"],
+    "category": "Industry"
+  },
+  {
+    "id": "blog-4",
+    "slug": "iso-9001-brass-manufacturing",
+    "title": "How ISO 9001:2015 Transforms Brass Component Manufacturing Quality",
+    "excerpt": "Understanding the impact of ISO 9001:2015 quality management systems on consistency, traceability, and customer satisfaction in brass manufacturing.",
+    "content": "ISO 9001:2015 is more than a certificate on the wall — it is a comprehensive quality management framework that transforms how brass manufacturers operate. For buyers sourcing critical components, an ISO 9001 certified supplier offers measurable advantages in consistency, traceability, and continuous improvement.\n\nThe standard requires documented procedures for every manufacturing process, from incoming material inspection to final product release. This means every batch of brass rod is spectrometrically analyzed, every CNC program is version-controlled, and every inspection result is recorded and traceable to individual components.\n\nRisk-based thinking, introduced in the 2015 revision, requires manufacturers to identify and mitigate potential quality risks proactively. In brass manufacturing, this translates to FMEA analysis for new product introductions, statistical process control (SPC) during production, and preventive maintenance schedules for CNC machines.\n\nCustomer feedback is systematically collected and analyzed as part of the management review process. Complaint resolution timelines are tracked, root cause analyses are documented, and corrective actions are verified for effectiveness. This closed-loop system drives genuine improvement rather than reactive firefighting.\n\nFor international buyers, ISO 9001 certification from accredited bodies like TÜV SÜD provides confidence that the supplier's quality system has been independently audited and meets globally recognized standards. It reduces incoming inspection requirements and simplifies vendor qualification processes.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&q=80",
+    "author": "Suresh Kumar",
+    "publishedAt": "2025-02-18",
+    "readTime": "6 min read",
+    "tags": ["ISO 9001", "Quality", "Certification"],
+    "category": "Quality"
+  },
+  {
+    "id": "blog-5",
+    "slug": "brass-alloy-guide-cz121-cw614n",
+    "title": "Brass Alloy Selection Guide: CZ121 vs CW614N and When to Use Each",
+    "excerpt": "A practical guide to selecting between popular brass alloys CZ121 and CW614N based on machinability, corrosion resistance, and application requirements.",
+    "content": "Selecting the right brass alloy is fundamental to component performance, and two alloys dominate precision brass manufacturing: CZ121 (CuZn39Pb3) and CW614N (CuZn39Pb3 to EN standard). Understanding their properties helps engineers and procurement teams make informed material decisions.\n\nCZ121 is the traditional British Standard designation for free-cutting brass containing approximately 57% copper, 39% zinc, and 3% lead. The high lead content provides exceptional machinability — rated at 100 on the machinability index — making it ideal for high-speed CNC turning of complex threaded components, fittings, and valve bodies.\n\nCW614N is the EN (European Norm) equivalent designation that has largely replaced CZ121 in international specifications. While the chemical composition is virtually identical, CW614N is specified to tighter tolerances under EN 12164 (bars) and EN 12165 (forgings), providing greater consistency in mechanical properties.\n\nFor applications requiring dezincification resistance in aggressive water conditions, CZ132 (DZR brass) or CW602N should be specified. These alloys contain arsenic additions that prevent selective zinc leaching, making them essential for potable water fittings in regions with corrosive water chemistry.\n\nLead-free alternatives like CW510L (CuZn42) are increasingly specified for drinking water applications in markets with strict lead content regulations (NSF/ANSI 372, EU Drinking Water Directive). While machinability is reduced, modern CNC technology and tooling have made lead-free brass commercially viable.\n\nAt BrassCraft Industries, we maintain stock of CZ121, CW614N, CZ132 (DZR), and lead-free alloys, enabling us to match the optimal material to each application and regulatory requirement.",
+    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=800&q=80",
+    "author": "Amit Shah",
+    "publishedAt": "2025-03-01",
+    "readTime": "8 min read",
+    "tags": ["Brass Alloys", "Material Selection", "Engineering"],
+    "category": "Technical"
+  }
+]

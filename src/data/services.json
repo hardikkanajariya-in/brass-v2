@@ -1,0 +1,140 @@
+[
+  {
+    "id": "service-1",
+    "slug": "cnc-precision-machining",
+    "name": "CNC Precision Machining",
+    "shortDescription": "High-precision CNC turning and milling of brass components to tight tolerances for industrial applications.",
+    "description": "Our state-of-the-art CNC precision machining services utilize 24 turning centres and 8 machining centres to produce brass components with tolerances as tight as ±0.01mm. From prototype to mass production, we handle complex geometries, multi-axis operations, and high-volume runs with consistent quality and dimensional accuracy.",
+    "image": "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?w=600&q=80",
+    "lucideIcon": "Wrench",
+    "features": [
+      "Tolerances up to ±0.01mm",
+      "24 CNC turning centres with live tooling",
+      "Multi-axis machining capabilities",
+      "Prototype to mass production",
+      "Real-time SPC monitoring"
+    ],
+    "capabilities": [
+      "Swiss-type CNC turning",
+      "Multi-spindle automatic machining",
+      "Thread rolling and knurling",
+      "Precision boring and reaming",
+      "Complex profile turning"
+    ]
+  },
+  {
+    "id": "service-2",
+    "slug": "hot-forging",
+    "name": "Hot Forging",
+    "shortDescription": "High-strength brass forging for valves, fittings, and complex shapes requiring superior mechanical properties.",
+    "description": "Our hot forging facility features 6 forging presses ranging from 100 to 500 tonnes, capable of producing complex brass shapes with enhanced grain structure and mechanical strength. Hot-forged brass components offer superior pressure resistance, making them ideal for valves, fittings, and safety-critical applications.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=80",
+    "lucideIcon": "Flame",
+    "features": [
+      "Forging presses from 100 to 500 tonnes",
+      "Enhanced grain structure and strength",
+      "Complex near-net-shape forging",
+      "Die design and manufacturing in-house",
+      "Reduced material waste vs machining"
+    ],
+    "capabilities": [
+      "Closed-die forging",
+      "Open-die forging",
+      "Upset forging",
+      "Impression die forging",
+      "Custom die development"
+    ]
+  },
+  {
+    "id": "service-3",
+    "slug": "quality-testing",
+    "name": "Quality Testing & Inspection",
+    "shortDescription": "Comprehensive metallurgical testing and dimensional inspection ensuring every component meets international standards.",
+    "description": "Our NABL-calibrated quality laboratory conducts rigorous incoming material analysis, in-process dimensional checks, and final product inspection. Equipped with spectrometers, CMM machines, hardness testers, and pressure test benches, we ensure every component meets or exceeds specified international standards.",
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&q=80",
+    "lucideIcon": "Microscope",
+    "features": [
+      "Spectrometric chemical analysis",
+      "CMM dimensional inspection",
+      "Hardness and tensile testing",
+      "Pressure and leak testing up to 50 bar",
+      "Surface roughness measurement"
+    ],
+    "capabilities": [
+      "Incoming material inspection",
+      "In-process SPC monitoring",
+      "Final product audit",
+      "First article inspection reports",
+      "Material test certificates (EN 10204 3.1)"
+    ]
+  },
+  {
+    "id": "service-4",
+    "slug": "custom-manufacturing",
+    "name": "Custom Manufacturing",
+    "shortDescription": "End-to-end custom brass component development from design consultation to finished product delivery.",
+    "description": "We offer comprehensive custom manufacturing services for brass components tailored to your exact specifications. From initial design consultation and material selection through prototyping, tooling development, and full-scale production, our engineering team works closely with you to deliver precision parts that meet your unique requirements.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80",
+    "lucideIcon": "Settings",
+    "features": [
+      "Design consultation and DFM analysis",
+      "Rapid prototyping within 5 working days",
+      "In-house tooling and fixture development",
+      "Flexible batch sizes from 100 to 1M+",
+      "Dedicated project engineering support"
+    ],
+    "capabilities": [
+      "Reverse engineering from samples",
+      "CAD/CAM design support",
+      "Material grade selection",
+      "Tolerance optimization",
+      "Assembly and sub-assembly"
+    ]
+  },
+  {
+    "id": "service-5",
+    "slug": "surface-finishing",
+    "name": "Surface Finishing",
+    "shortDescription": "Professional plating and finishing services including nickel, chrome, tin, and powder coating for brass components.",
+    "description": "Our in-house surface finishing line provides a range of plating and coating options to enhance corrosion resistance, conductivity, appearance, and wear properties of brass components. From decorative chrome plating to functional nickel and tin finishes, we deliver consistent, high-quality surface treatments.",
+    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&q=80",
+    "lucideIcon": "Sparkles",
+    "features": [
+      "Nickel plating (electroless & electrolytic)",
+      "Chrome plating for decorative finish",
+      "Tin plating for solderability",
+      "Polishing and buffing to mirror finish",
+      "Passivation and lacquering"
+    ],
+    "capabilities": [
+      "Barrel and rack plating",
+      "Selective plating for complex parts",
+      "Salt spray testing (ASTM B117)",
+      "Thickness measurement (XRF)",
+      "Custom finish specifications"
+    ]
+  },
+  {
+    "id": "service-6",
+    "slug": "packaging-logistics",
+    "name": "Packaging & Logistics",
+    "shortDescription": "Export-grade packaging and global logistics management with door-to-door delivery across 45+ countries.",
+    "description": "We handle complete packaging and logistics for international shipments with expertise in export documentation, customs compliance, and freight management. Our export-standard packaging ensures components arrive in perfect condition, whether shipping a sample box or a full container load to any of the 45+ countries we serve.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=80",
+    "lucideIcon": "Package",
+    "features": [
+      "Export-grade corrugated and VCI packaging",
+      "Custom labeling and barcoding",
+      "Door-to-door freight coordination",
+      "All export documentation handled",
+      "Real-time shipment tracking"
+    ],
+    "capabilities": [
+      "Sea freight (FCL and LCL)",
+      "Air freight for urgent orders",
+      "DDP and FOB Incoterms",
+      "Fumigation-free pallet packaging",
+      "Customs compliance for 45+ countries"
+    ]
+  }
+]

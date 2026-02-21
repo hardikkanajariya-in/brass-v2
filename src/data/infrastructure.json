@@ -1,0 +1,55 @@
+{
+  "totalArea": "45,000 sq ft",
+  "productionArea": "32,000 sq ft",
+  "machinery": [
+    {
+      "name": "CNC Turning Centers",
+      "count": 24,
+      "description": "High-speed precision turning with live tooling and bar feeders for continuous production of brass components."
+    },
+    {
+      "name": "CNC Machining Centers",
+      "count": 8,
+      "description": "Multi-axis vertical and horizontal machining centres for complex milling, drilling, and tapping operations."
+    },
+    {
+      "name": "Forging Presses",
+      "count": 6,
+      "description": "Hot forging presses from 100 to 500 tonnes for producing high-strength brass shapes with superior grain structure."
+    },
+    {
+      "name": "Surface Treatment Lines",
+      "count": 4,
+      "description": "Automated plating lines for nickel, chrome, tin plating and passivation with effluent treatment plant."
+    },
+    {
+      "name": "CMM Machines",
+      "count": 3,
+      "description": "Coordinate Measuring Machines for high-precision 3D dimensional inspection and geometric tolerance verification."
+    }
+  ],
+  "qualityLab": [
+    {
+      "name": "Optical Emission Spectrometer",
+      "description": "For rapid and accurate chemical composition analysis of incoming brass raw materials and finished components."
+    },
+    {
+      "name": "Rockwell Hardness Tester",
+      "description": "Measures material hardness to verify heat treatment results and ensure mechanical property compliance."
+    },
+    {
+      "name": "Surface Roughness Tester",
+      "description": "Portable profilometer for measuring surface finish quality on machined and plated brass components."
+    },
+    {
+      "name": "Hydrostatic Pressure Test Bench",
+      "description": "Tests brass valves and fittings up to 50 bar to verify leak-proof performance and pressure ratings."
+    },
+    {
+      "name": "Universal Tensile Testing Machine",
+      "description": "Determines tensile strength, yield strength, and elongation properties of brass alloy samples."
+    }
+  ],
+  "monthlyCapacity": "1,000,000+ pieces",
+  "certifiedSince": 1998
+}

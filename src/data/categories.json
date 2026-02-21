@@ -1,0 +1,90 @@
+[
+  {
+    "id": "fittings",
+    "slug": "fittings",
+    "name": "Brass Fittings",
+    "description": "Precision-engineered brass fittings for reliable pipe connections in plumbing, pneumatic, and hydraulic systems. Available in BSP and NPT thread standards.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=80",
+    "lucideIcon": "Wrench",
+    "productCount": 10,
+    "order": 1,
+    "color": "#B8860B"
+  },
+  {
+    "id": "valves",
+    "slug": "valves",
+    "name": "Brass Valves",
+    "description": "High-performance brass valves for flow control, isolation, and pressure regulation in industrial and commercial applications.",
+    "image": "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?w=600&q=80",
+    "lucideIcon": "Gauge",
+    "productCount": 8,
+    "order": 2,
+    "color": "#8B6914"
+  },
+  {
+    "id": "connectors",
+    "slug": "connectors",
+    "name": "Brass Connectors",
+    "description": "Versatile brass connectors for joining pipes, hoses, and tubes across pneumatic, hydraulic, and fluid-transfer systems.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80",
+    "lucideIcon": "Cable",
+    "productCount": 7,
+    "order": 3,
+    "color": "#D4A843"
+  },
+  {
+    "id": "fasteners",
+    "slug": "fasteners",
+    "name": "Brass Fasteners",
+    "description": "Corrosion-resistant brass fasteners including bolts, nuts, screws, and washers for electrical, marine, and general assembly applications.",
+    "image": "https://images.unsplash.com/photo-1582719471384-894fbb16e074?w=600&q=80",
+    "lucideIcon": "Bolt",
+    "productCount": 7,
+    "order": 4,
+    "color": "#1B2A4A"
+  },
+  {
+    "id": "inserts",
+    "slug": "inserts",
+    "name": "Brass Inserts",
+    "description": "Threaded brass inserts for plastic molding, providing durable metal threads in injection-molded, 3D-printed, and thermoformed components.",
+    "image": "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=600&q=80",
+    "lucideIcon": "CircleDot",
+    "productCount": 6,
+    "order": 5,
+    "color": "#2A3F6B"
+  },
+  {
+    "id": "turned-parts",
+    "slug": "turned-parts",
+    "name": "Turned Parts",
+    "description": "CNC-turned brass components including shafts, standoffs, pins, and bushings manufactured to tight tolerances for diverse industrial applications.",
+    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?w=600&q=80",
+    "lucideIcon": "Cog",
+    "productCount": 6,
+    "order": 6,
+    "color": "#8B6914"
+  },
+  {
+    "id": "plumbing",
+    "slug": "plumbing",
+    "name": "Plumbing Components",
+    "description": "Premium brass plumbing components for residential and commercial installations including valves, traps, drains, and faucet parts.",
+    "image": "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?w=600&q=80",
+    "lucideIcon": "Droplets",
+    "productCount": 6,
+    "order": 7,
+    "color": "#B8860B"
+  },
+  {
+    "id": "electrical",
+    "slug": "electrical",
+    "name": "Electrical Components",
+    "description": "High-conductivity brass electrical components including cable glands, terminals, earthing accessories, and switchgear contacts.",
+    "image": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=600&q=80",
+    "lucideIcon": "Zap",
+    "productCount": 5,
+    "order": 8,
+    "color": "#1B2A4A"
+  }
+]

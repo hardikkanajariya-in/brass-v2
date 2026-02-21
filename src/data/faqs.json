@@ -1,0 +1,62 @@
+[
+  {
+    "id": "faq-1",
+    "question": "What brass alloys do you use for manufacturing?",
+    "answer": "We primarily use CZ121 (CuZn39Pb3) and CW614N free-cutting brass for standard components. For dezincification-resistant applications, we use CZ132 (DZR brass). Lead-free alloys like CW510L are available for drinking water applications. Custom alloy specifications can be accommodated upon request.",
+    "category": "materials"
+  },
+  {
+    "id": "faq-2",
+    "question": "What is your minimum order quantity (MOQ)?",
+    "answer": "Our standard MOQ is 500 pieces for catalog products and 1,000 pieces for custom-manufactured components. For initial sampling and prototyping, we can produce as few as 50–100 pieces. Volume pricing is available for orders exceeding 10,000 pieces.",
+    "category": "ordering"
+  },
+  {
+    "id": "faq-3",
+    "question": "What is the typical lead time for orders?",
+    "answer": "Standard catalog products are typically dispatched within 2–3 weeks. Custom-manufactured components require 4–6 weeks depending on complexity and quantity. Prototype samples can be delivered within 5–7 working days. Rush orders can be accommodated with prior arrangement.",
+    "category": "ordering"
+  },
+  {
+    "id": "faq-4",
+    "question": "Can you manufacture custom brass parts from our drawings?",
+    "answer": "Yes, we specialize in custom brass component manufacturing. Send us your drawings (PDF, DXF, STEP, or IGES format), and our engineering team will provide a detailed quotation within 48 hours. We offer DFM (Design for Manufacturability) guidance to optimize your components for production.",
+    "category": "custom"
+  },
+  {
+    "id": "faq-5",
+    "question": "What quality certifications do you hold?",
+    "answer": "We are certified to ISO 9001:2015 (Quality Management) and ISO 14001:2015 (Environmental Management) by TÜV SÜD. Our products carry CE marking, RoHS compliance, and REACH compliance. Material test certificates (EN 10204 Type 3.1) are provided with every shipment.",
+    "category": "quality"
+  },
+  {
+    "id": "faq-6",
+    "question": "How are products packaged for international shipping?",
+    "answer": "We use export-grade packaging including VCI (Vapor Corrosion Inhibitor) protection, individual poly bags, corrugated dividers, and ISPM-15 compliant wooden pallets. Custom labeling, barcoding, and packaging specifications can be accommodated per your requirements.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq-7",
+    "question": "Which countries do you export to and what shipping methods do you offer?",
+    "answer": "We export to over 45 countries across Europe, North America, Middle East, Africa, and Asia-Pacific. We offer sea freight (FCL and LCL), air freight for urgent orders, and courier services for samples. Shipping terms available include FOB, CIF, and DDP Incoterms.",
+    "category": "shipping"
+  },
+  {
+    "id": "faq-8",
+    "question": "What quality testing do you perform on products?",
+    "answer": "Every batch undergoes spectrometric chemical analysis, dimensional inspection (including CMM), hardness testing, surface roughness measurement, and where applicable, hydrostatic pressure testing up to 50 bar. Statistical Process Control (SPC) is maintained during production runs.",
+    "category": "quality"
+  },
+  {
+    "id": "faq-9",
+    "question": "Do you offer OEM and private labeling services?",
+    "answer": "Yes, we provide full OEM manufacturing and private labeling services. This includes custom engraving, logo marking, branded packaging, and product labeling per your specifications. Many of our clients sell our products under their own brand names worldwide.",
+    "category": "custom"
+  },
+  {
+    "id": "faq-10",
+    "question": "What surface finish options are available?",
+    "answer": "We offer natural brass (as-machined), nickel plating (electroless and electrolytic), chrome plating, tin plating, polished/buffed finish, passivation, and lacquering. Custom finish specifications including plating thickness requirements can be accommodated. Salt spray test reports are available.",
+    "category": "materials"
+  }
+]

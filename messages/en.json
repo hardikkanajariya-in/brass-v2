@@ -1,0 +1,420 @@
+{
+  "common": {
+    "buttons": {
+      "getQuote": "Get a Quote",
+      "learnMore": "Learn More",
+      "viewAll": "View All",
+      "sendMessage": "Send Message",
+      "backToTop": "Back to Top",
+      "readMore": "Read More",
+      "viewDetails": "View Details",
+      "requestQuote": "Request Quote",
+      "download": "Download"
+    },
+    "labels": {
+      "loading": "Loading...",
+      "featured": "Featured",
+      "new": "New",
+      "viewAll": "View All",
+      "backTo": "Back to"
+    },
+    "aria": {
+      "openMenu": "Open navigation menu",
+      "closeMenu": "Close navigation menu",
+      "nextSlide": "Next slide",
+      "prevSlide": "Previous slide",
+      "expandFaq": "Expand answer"
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "aboutUs": "About Us",
+    "products": "Products",
+    "services": "Services",
+    "quality": "Quality",
+    "infrastructure": "Infrastructure",
+    "certifications": "Certifications",
+    "blog": "Blog",
+    "contact": "Contact",
+    "requestQuote": "Request Quote",
+    "allProducts": "All Products",
+    "productCategories": "Product Categories"
+  },
+  "categories": {
+    "fittings": "Brass Fittings",
+    "valves": "Brass Valves",
+    "connectors": "Brass Connectors",
+    "fasteners": "Brass Fasteners",
+    "inserts": "Brass Inserts",
+    "turnedParts": "Turned Parts",
+    "plumbing": "Plumbing Components",
+    "electrical": "Electrical Components"
+  },
+  "footer": {
+    "company": {
+      "description": "Leading manufacturer of precision brass components, serving global industries since 1995 from Jamnagar, India."
+    },
+    "quickLinks": "Quick Links",
+    "productCategories": "Product Categories",
+    "contactUs": "Contact Us",
+    "newsletter": {
+      "title": "Subscribe to Our Newsletter",
+      "placeholder": "Enter your email address",
+      "subscribe": "Subscribe",
+      "success": "Thank you for subscribing!",
+      "error": "Something went wrong. Please try again."
+    },
+    "builtBy": "Built by",
+    "creditCompany": "hardikkanajariya.in",
+    "copyright": "© {year} BrassCraft Industries. All rights reserved.",
+    "tagline": "Precision Brass Components for a World-Class Industry"
+  },
+  "home": {
+    "hero": {
+      "title": "Precision Brass Components for a World-Class Industry",
+      "tagline": "Precision Brass Components for a World-Class Industry",
+      "subtitle": "Manufacturing excellence since 1995. ISO-certified precision brass fittings, valves, and components exported to 45+ countries worldwide.",
+      "cta1": "Get a Quote",
+      "cta2": "View Products"
+    },
+    "sections": {
+      "ourProducts": "Our Product Categories",
+      "ourProductsSubtitle": "Explore our comprehensive range of precision-engineered brass components",
+      "whyChooseUs": "Why Choose BrassCraft Industries",
+      "whyChooseUsSubtitle": "Three decades of precision manufacturing excellence",
+      "ourClients": "What Our Clients Say",
+      "ourClientsSubtitle": "Trusted by leading companies across 45+ countries",
+      "certifications": "Our Certifications",
+      "certificationsSubtitle": "Internationally recognized quality and compliance standards",
+      "stats": "BrassCraft in Numbers",
+      "statsSubtitle": "Our achievements speak for our commitment to excellence",
+      "cta": "Ready to Get Started?",
+      "ctaSubtitle": "Contact our team for a customized quotation tailored to your requirements",
+      "ctaButton": "Request a Quote"
+    },
+    "whyChooseUs": {
+      "quality": {
+        "title": "Quality Excellence",
+        "desc": "ISO 9001:2015 certified processes with multi-stage inspection ensuring every component meets international standards."
+      },
+      "delivery": {
+        "title": "On-Time Delivery",
+        "desc": "Streamlined production and logistics ensure your orders are dispatched on schedule, every time."
+      },
+      "global": {
+        "title": "Global Reach",
+        "desc": "Exporting to 45+ countries with expertise in international shipping, documentation, and compliance."
+      },
+      "precision": {
+        "title": "Precision Engineering",
+        "desc": "24 CNC turning centres delivering tolerances as tight as ±0.01mm for critical applications."
+      },
+      "certified": {
+        "title": "Certified & Compliant",
+        "desc": "ISO 9001, ISO 14001, CE, RoHS, and REACH certified for hassle-free global procurement."
+      },
+      "competitive": {
+        "title": "Competitive Pricing",
+        "desc": "Direct manufacturer pricing with no intermediaries, offering the best value for premium brass components."
+      }
+    },
+    "stats": {
+      "years": "Years of Excellence",
+      "products": "Products Manufactured",
+      "countries": "Countries Served",
+      "capacity": "Monthly Capacity"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "About BrassCraft Industries",
+      "subtitle": "Three decades of precision brass manufacturing excellence from Jamnagar, India"
+    },
+    "overview": {
+      "title": "Our Story",
+      "subtitle": "From a modest workshop to a global brass component manufacturer"
+    },
+    "mission": {
+      "title": "Our Mission",
+      "content": "To deliver world-class precision brass components that exceed international quality standards, fostering long-term partnerships with customers worldwide through innovation, reliability, and exceptional service."
+    },
+    "vision": {
+      "title": "Our Vision",
+      "content": "To be the most trusted brass component manufacturer globally, recognized for precision engineering, sustainable practices, and unwavering commitment to customer success."
+    },
+    "values": {
+      "title": "Our Core Values",
+      "subtitle": "The principles that guide everything we do"
+    },
+    "timeline": {
+      "title": "Our Journey",
+      "subtitle": "Key milestones in our three decades of growth"
+    },
+    "team": {
+      "title": "Our Leadership",
+      "subtitle": "Meet the team driving BrassCraft Industries forward"
+    },
+    "cta": {
+      "title": "Partner With Us",
+      "subtitle": "Join hundreds of satisfied customers worldwide. Let us be your trusted brass component partner."
+    }
+  },
+  "products": {
+    "hero": {
+      "title": "Our Products",
+      "subtitle": "Comprehensive range of precision brass components for every industrial application"
+    },
+    "filter": {
+      "allCategories": "All Categories",
+      "search": "Search products...",
+      "sortBy": "Sort By",
+      "sortAZ": "Name: A–Z",
+      "sortZA": "Name: Z–A",
+      "sortFeatured": "Featured First"
+    },
+    "specs": {
+      "material": "Material",
+      "size": "Size Range",
+      "thread": "Thread Type",
+      "pressure": "Pressure Rating",
+      "temperature": "Temperature Range",
+      "finish": "Finish Options",
+      "weight": "Weight",
+      "standard": "Standard"
+    },
+    "requestQuote": "Request Quote for This Product",
+    "noResults": "No products found matching your criteria. Try adjusting your filters.",
+    "relatedProducts": "Related Products",
+    "gallery": "Product Gallery",
+    "specifications": "Specifications",
+    "applications": "Applications",
+    "features": "Features",
+    "description": "Description",
+    "category": "Category"
+  },
+  "contact": {
+    "hero": {
+      "title": "Contact Us",
+      "subtitle": "Get in touch with our team for inquiries, quotations, or technical support"
+    },
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "company": "Company Name",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "success": "Thank you! Your message has been sent successfully. We will get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again or contact us directly.",
+      "subjects": {
+        "general": "General Inquiry",
+        "quote": "Request a Quote",
+        "technical": "Technical Support",
+        "partnership": "Partnership Opportunity",
+        "feedback": "Feedback"
+      }
+    },
+    "info": {
+      "address": "Our Address",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Working Hours"
+    },
+    "map": "Our Location",
+    "faqsTitle": "Frequently Asked Questions",
+    "faqsSubtitle": "Quick answers to common questions"
+  },
+  "quote": {
+    "hero": {
+      "title": "Request a Quote",
+      "subtitle": "Fill out the form below and our team will provide a detailed quotation within 48 hours"
+    },
+    "form": {
+      "product": "Select Products",
+      "quantity": "Required Quantity",
+      "drawing": "Upload Drawing (Optional)",
+      "specifications": "Special Specifications",
+      "deadline": "Required Delivery Date",
+      "submit": "Submit Quote Request",
+      "success": "Your quote request has been submitted successfully! Our team will review and respond within 48 hours.",
+      "error": "Failed to submit your request. Please try again or email us directly."
+    }
+  },
+  "services": {
+    "hero": {
+      "title": "Our Services",
+      "subtitle": "End-to-end brass component manufacturing capabilities under one roof"
+    },
+    "capabilities": "Our Capabilities",
+    "capabilitiesSubtitle": "Advanced manufacturing processes and technologies",
+    "cta": {
+      "title": "Need Custom Manufacturing?",
+      "subtitle": "Our engineering team is ready to discuss your specific requirements",
+      "button": "Contact Our Team"
+    }
+  },
+  "quality": {
+    "hero": {
+      "title": "Quality Assurance",
+      "subtitle": "Rigorous quality management ensuring every component meets international standards"
+    },
+    "process": {
+      "title": "Our Quality Process",
+      "subtitle": "Four-stage quality control from raw material to dispatch",
+      "incoming": {
+        "title": "Incoming Material",
+        "desc": "Spectrometric analysis and dimensional inspection of all incoming brass raw materials."
+      },
+      "inProcess": {
+        "title": "In-Process Control",
+        "desc": "Real-time SPC monitoring and dimensional checks during CNC machining operations."
+      },
+      "final": {
+        "title": "Final Inspection",
+        "desc": "100% visual inspection and statistical sampling for dimensional accuracy and surface quality."
+      },
+      "dispatch": {
+        "title": "Pre-Dispatch Audit",
+        "desc": "Final audit with material test certificates and quality documentation before shipment."
+      }
+    },
+    "equipment": {
+      "title": "Testing Equipment",
+      "subtitle": "State-of-the-art quality laboratory with calibrated instruments"
+    },
+    "standards": {
+      "title": "Standards Compliance",
+      "subtitle": "Manufactured to international standards"
+    }
+  },
+  "certifications": {
+    "hero": {
+      "title": "Certifications & Compliance",
+      "subtitle": "Internationally recognized quality and environmental certifications"
+    },
+    "intro": "BrassCraft Industries maintains rigorous certification standards to ensure our products meet the highest quality and compliance requirements worldwide. Our certifications are independently audited and regularly renewed."
+  },
+  "infrastructure": {
+    "hero": {
+      "title": "Our Infrastructure",
+      "subtitle": "State-of-the-art manufacturing facility in Jamnagar, Gujarat"
+    },
+    "plant": {
+      "title": "Manufacturing Facility",
+      "subtitle": "Modern production facility designed for precision and efficiency"
+    },
+    "machinery": {
+      "title": "Machinery & Equipment",
+      "subtitle": "Advanced CNC and forging equipment for precision manufacturing"
+    },
+    "lab": {
+      "title": "Quality Laboratory",
+      "subtitle": "Fully equipped metallurgical and dimensional testing laboratory"
+    },
+    "capacity": {
+      "title": "Production Capacity",
+      "subtitle": "Scalable manufacturing to meet your volume requirements"
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Industry Insights",
+      "subtitle": "Expert articles on brass manufacturing, materials, and industry trends"
+    },
+    "readMore": "Read More",
+    "minRead": "min read",
+    "postedOn": "Posted on",
+    "tags": "Tags",
+    "backToBlog": "Back to Blog",
+    "recentPosts": "Recent Posts",
+    "allPosts": "All Posts"
+  },
+  "privacy": {
+    "hero": {
+      "title": "Privacy Policy",
+      "subtitle": "How we collect, use, and protect your information"
+    },
+    "dataCollection": {
+      "title": "Information We Collect",
+      "content": "We collect information you provide directly, such as your name, email address, phone number, and company details when you fill out contact forms, request quotes, or subscribe to our newsletter."
+    },
+    "dataUsage": {
+      "title": "How We Use Your Information",
+      "content": "We use your information to respond to inquiries, process quote requests, send relevant product updates if you have opted in, and improve our services. We do not sell your personal information to third parties."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "content": "Our website uses essential cookies to ensure proper functionality. We may use analytics cookies to understand how visitors interact with our website. You can manage your cookie preferences through your browser settings."
+    },
+    "contactPrivacy": {
+      "title": "Contact Us About Privacy",
+      "content": "If you have questions about our privacy practices or would like to exercise your data rights, please contact us at info@brasscraftindustries.com."
+    }
+  },
+  "seo": {
+    "home": {
+      "title": "Precision Brass Components Manufacturer",
+      "description": "BrassCraft Industries - Leading manufacturer of precision brass fittings, valves, connectors, and components. ISO 9001 certified, exporting to 45+ countries since 1995."
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Learn about BrassCraft Industries' three decades of brass manufacturing excellence. ISO certified, 500+ employees, exporting to 45+ countries from Jamnagar, India."
+    },
+    "products": {
+      "title": "Our Products",
+      "description": "Explore our comprehensive range of precision brass components including fittings, valves, connectors, fasteners, inserts, and electrical components."
+    },
+    "services": {
+      "title": "Our Services",
+      "description": "CNC precision machining, hot forging, quality testing, custom manufacturing, surface finishing, and export logistics for brass components."
+    },
+    "quality": {
+      "title": "Quality Assurance",
+      "description": "ISO 9001:2015 certified quality management with four-stage inspection process. Spectrometric analysis, CMM, pressure testing, and more."
+    },
+    "certifications": {
+      "title": "Certifications & Compliance",
+      "description": "ISO 9001:2015, ISO 14001:2015, CE Marking, RoHS and REACH compliance. Internationally certified brass component manufacturing."
+    },
+    "infrastructure": {
+      "title": "Our Infrastructure",
+      "description": "45,000 sq ft manufacturing facility with 24 CNC turning centres, 8 machining centres, and fully equipped quality laboratory."
+    },
+    "blog": {
+      "title": "Industry Insights & Blog",
+      "description": "Expert articles on brass manufacturing, CNC machining, material selection, quality standards, and industry best practices."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "description": "Get in touch with BrassCraft Industries for inquiries, quotations, or technical support. Located in Jamnagar, Gujarat, India."
+    },
+    "quote": {
+      "title": "Request a Quote",
+      "description": "Request a customized quotation for brass components. Our team responds within 48 hours with detailed pricing and lead times."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "description": "BrassCraft Industries privacy policy - how we collect, use, and protect your personal information."
+    }
+  },
+  "errors": {
+    "404": {
+      "title": "Page Not Found",
+      "subtitle": "The page you are looking for does not exist or has been moved.",
+      "backHome": "Back to Home"
+    },
+    "500": {
+      "title": "Something Went Wrong",
+      "subtitle": "An unexpected error occurred. Please try again later.",
+      "retry": "Try Again"
+    },
+    "form": {
+      "required": "This field is required",
+      "email": "Please enter a valid email address",
+      "phone": "Please enter a valid phone number",
+      "minLength": "Must be at least {min} characters",
+      "maxLength": "Must not exceed {max} characters"
+    }
+  }
+}

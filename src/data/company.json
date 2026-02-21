@@ -1,0 +1,120 @@
+{
+  "name": "BrassCraft Industries",
+  "tagline": "Precision Brass Components for a World-Class Industry",
+  "description": "Established in 1995 in the heart of Jamnagar, Gujarat — India's brass capital — BrassCraft Industries has grown from a modest workshop into one of the region's most trusted manufacturers of precision brass components. Our journey began with a simple mission: to deliver world-class quality brass parts that meet the exacting standards of global industries.\n\nOver nearly three decades, we have invested continuously in advanced CNC technology, rigorous quality management systems, and skilled craftsmanship. Today, our 45,000 sq ft facility houses 24 CNC turning centres, 8 machining centres, and a fully equipped metallurgical laboratory — enabling us to produce over one million precision components every month.\n\nWith exports spanning 45+ countries and certifications including ISO 9001:2015 and ISO 14001:2015, BrassCraft Industries serves as a reliable partner for OEMs, distributors, and engineering firms worldwide. From brass fittings and valves to electrical components and custom turned parts, every product bears our hallmark of precision, durability, and uncompromising quality.",
+  "founded": 1995,
+  "employees": "500+",
+  "exportCountries": 45,
+  "monthlyCapacity": "1,000,000+ pieces",
+  "headquarters": "Jamnagar, Gujarat, India",
+  "milestones": [
+    {
+      "year": 1995,
+      "title": "Company Founded",
+      "description": "BrassCraft Industries established in Jamnagar GIDC with a vision to manufacture world-class brass components."
+    },
+    {
+      "year": 1998,
+      "title": "ISO Certification",
+      "description": "Achieved ISO 9001 certification, establishing quality management systems across all production processes."
+    },
+    {
+      "year": 2002,
+      "title": "Export Operations Begin",
+      "description": "Commenced export operations to the UK, UAE, and Southeast Asian markets, marking our entry into global trade."
+    },
+    {
+      "year": 2007,
+      "title": "CNC Expansion",
+      "description": "Major capital investment in CNC turning and machining centres, tripling production capacity and precision capabilities."
+    },
+    {
+      "year": 2012,
+      "title": "50+ Countries Reached",
+      "description": "Export network expanded to over 50 countries across Europe, Americas, Middle East, Africa, and Asia-Pacific."
+    },
+    {
+      "year": 2016,
+      "title": "New Manufacturing Facility",
+      "description": "Inaugurated state-of-the-art 45,000 sq ft manufacturing facility with dedicated quality lab and automated production lines."
+    },
+    {
+      "year": 2020,
+      "title": "Green Manufacturing Initiative",
+      "description": "Adopted ISO 14001 environmental management and implemented brass recycling, solar energy, and water reclamation systems."
+    },
+    {
+      "year": 2025,
+      "title": "Digital Transformation",
+      "description": "Implemented Industry 4.0 practices including IoT-enabled quality monitoring, ERP integration, and digital supply chain management."
+    }
+  ],
+  "leadership": [
+    {
+      "id": "leader-1",
+      "name": "Rajesh Patel",
+      "designation": "Managing Director",
+      "image": "/images/team/managing-director.jpg",
+      "bio": "With over 30 years of experience in brass manufacturing, Rajesh Patel founded BrassCraft Industries and has guided its growth from a small workshop to a global exporter serving 45+ countries."
+    },
+    {
+      "id": "leader-2",
+      "name": "Amit Shah",
+      "designation": "Technical Director",
+      "image": "/images/team/technical-director.jpg",
+      "bio": "Amit Shah leads our engineering and R&D division, overseeing CNC programming, tooling design, and new product development with a focus on precision and innovation."
+    },
+    {
+      "id": "leader-3",
+      "name": "Priya Mehta",
+      "designation": "Export Manager",
+      "image": "/images/team/export-manager.jpg",
+      "bio": "Priya Mehta manages our international trade operations, building strong relationships with distributors and OEM partners across Europe, Americas, and the Middle East."
+    },
+    {
+      "id": "leader-4",
+      "name": "Suresh Kumar",
+      "designation": "Quality Head",
+      "image": "/images/team/quality-head.jpg",
+      "bio": "Suresh Kumar ensures every component meets international standards through rigorous incoming, in-process, and final inspection protocols in our certified quality laboratory."
+    }
+  ],
+  "coreValues": [
+    {
+      "id": "value-1",
+      "title": "Quality Excellence",
+      "description": "Every component undergoes rigorous multi-stage inspection to ensure it meets or exceeds international standards.",
+      "lucideIcon": "Award"
+    },
+    {
+      "id": "value-2",
+      "title": "Customer First",
+      "description": "We build lasting partnerships by understanding and exceeding our customers' expectations in quality, delivery, and service.",
+      "lucideIcon": "Users"
+    },
+    {
+      "id": "value-3",
+      "title": "Innovation",
+      "description": "Continuous investment in CNC technology, process optimization, and new product development drives our competitive edge.",
+      "lucideIcon": "Lightbulb"
+    },
+    {
+      "id": "value-4",
+      "title": "Integrity",
+      "description": "Transparent business practices, fair pricing, and honest communication form the foundation of every relationship.",
+      "lucideIcon": "Shield"
+    },
+    {
+      "id": "value-5",
+      "title": "Sustainability",
+      "description": "From brass recycling to solar energy, we are committed to environmentally responsible manufacturing practices.",
+      "lucideIcon": "Leaf"
+    },
+    {
+      "id": "value-6",
+      "title": "Precision",
+      "description": "Tight tolerances, advanced metrology, and skilled craftsmanship ensure every part performs flawlessly in its application.",
+      "lucideIcon": "Target"
+    }
+  ]
+}

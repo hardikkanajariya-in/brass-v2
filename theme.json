@@ -1,25 +1,25 @@
 {
   "colors": {
     "brand": {
-      "primary": "#B8860B",
-      "primaryLight": "#D4A843",
-      "primaryDark": "#8B6914",
-      "secondary": "#1B2A4A",
-      "secondaryLight": "#2A3F6B",
-      "secondaryDark": "#0F1A2E"
+      "primary": "#0F766E",
+      "primaryLight": "#14B8A6",
+      "primaryDark": "#0D5B56",
+      "secondary": "#1E293B",
+      "secondaryLight": "#334155",
+      "secondaryDark": "#0F172A"
     },
     "neutral": {
-      "50": "#FDFBF7",
-      "100": "#F5F0E8",
-      "200": "#EDE5D0",
-      "300": "#DDD0B0",
-      "400": "#C4B088",
-      "500": "#A08060",
-      "600": "#806050",
-      "700": "#604840",
-      "800": "#403028",
-      "900": "#201810",
-      "950": "#100C08"
+      "50": "#F8FAFC",
+      "100": "#F1F5F9",
+      "200": "#E2E8F0",
+      "300": "#CBD5E1",
+      "400": "#94A3B8",
+      "500": "#64748B",
+      "600": "#475569",
+      "700": "#334155",
+      "800": "#1E293B",
+      "900": "#0F172A",
+      "950": "#020617"
     },
     "semantic": {
       "success": "#16A34A",
@@ -28,9 +28,9 @@
       "info": "#2563EB"
     },
     "surface": {
-      "default": "#FDFBF7",
-      "muted": "#F5F0E8",
-      "inverse": "#1B2A4A"
+      "default": "#F8FAFC",
+      "muted": "#F1F5F9",
+      "inverse": "#1E293B"
     }
   },
   "typography": {
@@ -79,14 +79,14 @@
     "sm": "0 1px 2px 0 rgb(0 0 0 / 0.05)",
     "md": "0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1)",
     "lg": "0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1)",
-    "card": "0 2px 8px -2px rgb(184 134 11 / 0.12), 0 4px 12px -4px rgb(0 0 0 / 0.08)",
+    "card": "0 2px 8px -2px rgb(15 118 110 / 0.10), 0 4px 12px -4px rgb(0 0 0 / 0.08)",
     "dropdown": "0 8px 24px -4px rgb(0 0 0 / 0.18)",
-    "button": "0 2px 6px -1px rgb(184 134 11 / 0.35)"
+    "button": "0 2px 6px -1px rgb(15 118 110 / 0.30)"
   },
   "gradients": {
-    "hero": "linear-gradient(135deg, #0F1A2E 0%, #1B2A4A 50%, #2A3F6B 100%)",
-    "brass": "linear-gradient(135deg, #8B6914 0%, #D4A843 100%)",
-    "surface": "linear-gradient(180deg, #FDFBF7 0%, #F5F0E8 100%)"
+    "hero": "linear-gradient(135deg, #0F172A 0%, #1E293B 50%, #334155 100%)",
+    "brass": "linear-gradient(135deg, #0D5B56 0%, #14B8A6 100%)",
+    "surface": "linear-gradient(180deg, #F8FAFC 0%, #F1F5F9 100%)"
   },
   "animation": {
     "duration": {

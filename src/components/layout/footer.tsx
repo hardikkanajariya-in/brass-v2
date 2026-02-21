@@ -18,7 +18,7 @@ export function Footer() {
           <div>
             <Link href="/" className="mb-4 inline-flex items-center gap-1">
               <span className="text-xl font-bold text-brand-primary">
-                BrassCraft
+                BrassForge
               </span>
               <span className="text-xl font-semibold text-white">
                 Industries

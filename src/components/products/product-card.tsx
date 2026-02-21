@@ -19,7 +19,7 @@ export function ProductCard({ product, className }: ProductCardProps) {
     <Link
       href={`/products/${product.categorySlug}/${product.slug}`}
       className={cn(
-        "group flex flex-col overflow-hidden rounded-card border border-transparent bg-white shadow-card transition-all duration-300 hover:border-brand-primary/50 hover:shadow-lg",
+        "group flex flex-col overflow-hidden rounded-xl border border-neutral-200 bg-white shadow-sm transition-all duration-300 hover:-translate-y-1 hover:border-brand-primary/50 hover:shadow-lg",
         className
       )}
     >
@@ -29,8 +29,9 @@ export function ProductCard({ product, className }: ProductCardProps) {
           alt={product.name}
           width={400}
           height={300}
-          className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-105"
+          className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
         />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/10 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
         <div className="absolute top-3 left-3 flex gap-2">
           {product.isFeatured && (
             <Badge variant="brand">{t("common.labels.featured")}</Badge>
@@ -41,15 +42,15 @@ export function ProductCard({ product, className }: ProductCardProps) {
         </div>
       </div>
       <div className="flex flex-1 flex-col p-5">
-        <h3 className="text-base font-semibold text-brand-secondary group-hover:text-brand-primary">
+        <h3 className="text-base font-semibold text-brand-secondary transition-colors duration-200 group-hover:text-brand-primary">
           {product.name}
         </h3>
-        <p className="mt-1.5 line-clamp-2 flex-1 text-sm text-neutral-600">
+        <p className="mt-2 line-clamp-2 flex-1 text-sm leading-relaxed text-neutral-500">
           {truncate(product.shortDescription, 100)}
         </p>
-        <div className="mt-3 flex items-center gap-1 text-sm font-medium text-brand-primary">
+        <div className="mt-4 flex items-center gap-1 border-t border-neutral-100 pt-4 text-sm font-medium text-brand-primary">
           {t("common.buttons.viewDetails")}
-          <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+          <ArrowRight className="h-4 w-4 transition-transform duration-200 group-hover:translate-x-1" />
         </div>
       </div>
     </Link>

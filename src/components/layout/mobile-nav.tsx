@@ -62,7 +62,7 @@ export function MobileNav({ isOpen, onClose }: MobileNavProps) {
         <div className="flex items-center justify-between border-b border-white/10 p-4">
           <Link href="/" className="flex items-center gap-1" onClick={onClose}>
             <span className="text-lg font-bold text-brand-primary">
-              BrassCraft
+              BrassForge
             </span>
             <span className="text-lg font-semibold text-white">Industries</span>
           </Link>

@@ -77,15 +77,15 @@ export interface SiteConfig {
 
 export const siteConfig: SiteConfig = {
   company: {
-    name: "BrassCraft Industries",
+    name: "BrassForge Industries",
     tagline: "home.hero.tagline",
     logo: "/images/logo.svg",
     logoDark: "/images/logo-dark.svg",
     founded: 1995,
   },
   contact: {
-    email: "info@brasscraftindustries.com",
-    salesEmail: "sales@brasscraftindustries.com",
+    email: "info@brassforge.in",
+    salesEmail: "sales@brassforge.in",
     phone: "+91 98765 43210",
     address: {
       street: "GIDC Industrial Estate, Plot 45-B",
@@ -98,15 +98,15 @@ export const siteConfig: SiteConfig = {
     mapEmbedUrl: "https://maps.google.com/maps?q=Jamnagar+GIDC",
   },
   social: {
-    linkedin: "https://linkedin.com/company/brasscraftindustries",
-    facebook: "https://facebook.com/brasscraftindustries",
-    youtube: "https://youtube.com/@brasscraftindustries",
-    twitter: "https://twitter.com/brasscraftind",
+    linkedin: "https://linkedin.com/company/brassforgeindustries",
+    facebook: "https://facebook.com/brassforgeindustries",
+    youtube: "https://youtube.com/@brassforgeindustries",
+    twitter: "https://twitter.com/brassforgeind",
   },
   seo: {
-    titleTemplate: "%s | BrassCraft Industries",
+    titleTemplate: "%s | BrassForge Industries",
     defaultDescriptionKey: "seo.home.description",
-    siteUrl: "https://brasscraftindustries.com",
+    siteUrl: "https://brassforge.in",
     ogImage:
       "https://images.unsplash.com/photo-1565193566173-7a0ee3dbe261?w=1200&q=80",
   },

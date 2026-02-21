@@ -8,7 +8,7 @@
     "lucideIcon": "Wrench",
     "productCount": 10,
     "order": 1,
-    "color": "#B8860B"
+    "color": "#0F766E"
   },
   {
     "id": "valves",
@@ -19,7 +19,7 @@
     "lucideIcon": "Gauge",
     "productCount": 8,
     "order": 2,
-    "color": "#8B6914"
+    "color": "#0D5B56"
   },
   {
     "id": "connectors",
@@ -30,7 +30,7 @@
     "lucideIcon": "Cable",
     "productCount": 7,
     "order": 3,
-    "color": "#D4A843"
+    "color": "#14B8A6"
   },
   {
     "id": "fasteners",
@@ -41,7 +41,7 @@
     "lucideIcon": "Bolt",
     "productCount": 7,
     "order": 4,
-    "color": "#1B2A4A"
+    "color": "#1E293B"
   },
   {
     "id": "inserts",
@@ -52,7 +52,7 @@
     "lucideIcon": "CircleDot",
     "productCount": 6,
     "order": 5,
-    "color": "#2A3F6B"
+    "color": "#334155"
   },
   {
     "id": "turned-parts",
@@ -63,7 +63,7 @@
     "lucideIcon": "Cog",
     "productCount": 6,
     "order": 6,
-    "color": "#8B6914"
+    "color": "#0D5B56"
   },
   {
     "id": "plumbing",
@@ -74,7 +74,7 @@
     "lucideIcon": "Droplets",
     "productCount": 6,
     "order": 7,
-    "color": "#B8860B"
+    "color": "#0F766E"
   },
   {
     "id": "electrical",
@@ -85,6 +85,6 @@
     "lucideIcon": "Zap",
     "productCount": 5,
     "order": 8,
-    "color": "#1B2A4A"
+    "color": "#1E293B"
   }
 ]

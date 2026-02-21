@@ -57,7 +57,7 @@ export function Header() {
             {/* Logo */}
             <Link href="/" className="flex shrink-0 items-center gap-1">
               <span className="text-lg font-bold text-brand-primary md:text-xl lg:text-2xl">
-                BrassCraft
+                BrassForge
               </span>
               <span
                 className={cn(

@@ -1,7 +1,7 @@
 {
-  "name": "BrassCraft Industries",
+  "name": "BrassForge Industries",
   "tagline": "Precision Brass Components for a World-Class Industry",
-  "description": "Established in 1995 in the heart of Jamnagar, Gujarat — India's brass capital — BrassCraft Industries has grown from a modest workshop into one of the region's most trusted manufacturers of precision brass components. Our journey began with a simple mission: to deliver world-class quality brass parts that meet the exacting standards of global industries.\n\nOver nearly three decades, we have invested continuously in advanced CNC technology, rigorous quality management systems, and skilled craftsmanship. Today, our 45,000 sq ft facility houses 24 CNC turning centres, 8 machining centres, and a fully equipped metallurgical laboratory — enabling us to produce over one million precision components every month.\n\nWith exports spanning 45+ countries and certifications including ISO 9001:2015 and ISO 14001:2015, BrassCraft Industries serves as a reliable partner for OEMs, distributors, and engineering firms worldwide. From brass fittings and valves to electrical components and custom turned parts, every product bears our hallmark of precision, durability, and uncompromising quality.",
+  "description": "Established in 1995 in the heart of Jamnagar, Gujarat — India's brass capital — BrassForge Industries has grown from a modest workshop into one of the region's most trusted manufacturers of precision brass components. Our journey began with a simple mission: to deliver world-class quality brass parts that meet the exacting standards of global industries.\n\nOver nearly three decades, we have invested continuously in advanced CNC technology, rigorous quality management systems, and skilled craftsmanship. Today, our 45,000 sq ft facility houses 24 CNC turning centres, 8 machining centres, and a fully equipped metallurgical laboratory — enabling us to produce over one million precision components every month.\n\nWith exports spanning 45+ countries and certifications including ISO 9001:2015 and ISO 14001:2015, BrassForge Industries serves as a reliable partner for OEMs, distributors, and engineering firms worldwide. From brass fittings and valves to electrical components and custom turned parts, every product bears our hallmark of precision, durability, and uncompromising quality.",
   "founded": 1995,
   "employees": "500+",
   "exportCountries": 45,
@@ -11,7 +11,7 @@
     {
       "year": 1995,
       "title": "Company Founded",
-      "description": "BrassCraft Industries established in Jamnagar GIDC with a vision to manufacture world-class brass components."
+      "description": "BrassForge Industries established in Jamnagar GIDC with a vision to manufacture world-class brass components."
     },
     {
       "year": 1998,
@@ -55,7 +55,7 @@
       "name": "Rajesh Patel",
       "designation": "Managing Director",
       "image": "/images/team/managing-director.jpg",
-      "bio": "With over 30 years of experience in brass manufacturing, Rajesh Patel founded BrassCraft Industries and has guided its growth from a small workshop to a global exporter serving 45+ countries."
+      "bio": "With over 30 years of experience in brass manufacturing, Rajesh Patel founded BrassForge Industries and has guided its growth from a small workshop to a global exporter serving 45+ countries."
     },
     {
       "id": "leader-2",

@@ -66,7 +66,7 @@
     },
     "builtBy": "Built by",
     "creditCompany": "hardikkanajariya.in",
-    "copyright": "© {year} BrassCraft Industries. All rights reserved.",
+    "copyright": "© {year} BrassForge Industries. All rights reserved.",
     "tagline": "Precision Brass Components for a World-Class Industry"
   },
   "home": {
@@ -80,13 +80,13 @@
     "sections": {
       "ourProducts": "Our Product Categories",
       "ourProductsSubtitle": "Explore our comprehensive range of precision-engineered brass components",
-      "whyChooseUs": "Why Choose BrassCraft Industries",
+      "whyChooseUs": "Why Choose BrassForge Industries",
       "whyChooseUsSubtitle": "Three decades of precision manufacturing excellence",
       "ourClients": "What Our Clients Say",
       "ourClientsSubtitle": "Trusted by leading companies across 45+ countries",
       "certifications": "Our Certifications",
       "certificationsSubtitle": "Internationally recognized quality and compliance standards",
-      "stats": "BrassCraft in Numbers",
+      "stats": "BrassForge in Numbers",
       "statsSubtitle": "Our achievements speak for our commitment to excellence",
       "cta": "Ready to Get Started?",
       "ctaSubtitle": "Contact our team for a customized quotation tailored to your requirements",
@@ -127,7 +127,7 @@
   },
   "about": {
     "hero": {
-      "title": "About BrassCraft Industries",
+      "title": "About BrassForge Industries",
       "subtitle": "Three decades of precision brass manufacturing excellence from Jamnagar, India"
     },
     "overview": {
@@ -152,7 +152,7 @@
     },
     "team": {
       "title": "Our Leadership",
-      "subtitle": "Meet the team driving BrassCraft Industries forward"
+      "subtitle": "Meet the team driving BrassForge Industries forward"
     },
     "cta": {
       "title": "Partner With Us",
@@ -293,7 +293,7 @@
       "title": "Certifications & Compliance",
       "subtitle": "Internationally recognized quality and environmental certifications"
     },
-    "intro": "BrassCraft Industries maintains rigorous certification standards to ensure our products meet the highest quality and compliance requirements worldwide. Our certifications are independently audited and regularly renewed."
+    "intro": "BrassForge Industries maintains rigorous certification standards to ensure our products meet the highest quality and compliance requirements worldwide. Our certifications are independently audited and regularly renewed."
   },
   "infrastructure": {
     "hero": {
@@ -349,17 +349,17 @@
     },
     "contactPrivacy": {
       "title": "Contact Us About Privacy",
-      "content": "If you have questions about our privacy practices or would like to exercise your data rights, please contact us at info@brasscraftindustries.com."
+      "content": "If you have questions about our privacy practices or would like to exercise your data rights, please contact us at info@brassforge.in."
     }
   },
   "seo": {
     "home": {
       "title": "Precision Brass Components Manufacturer",
-      "description": "BrassCraft Industries - Leading manufacturer of precision brass fittings, valves, connectors, and components. ISO 9001 certified, exporting to 45+ countries since 1995."
+      "description": "BrassForge Industries - Leading manufacturer of precision brass fittings, valves, connectors, and components. ISO 9001 certified, exporting to 45+ countries since 1995."
     },
     "about": {
       "title": "About Us",
-      "description": "Learn about BrassCraft Industries' three decades of brass manufacturing excellence. ISO certified, 500+ employees, exporting to 45+ countries from Jamnagar, India."
+      "description": "Learn about BrassForge Industries' three decades of brass manufacturing excellence. ISO certified, 500+ employees, exporting to 45+ countries from Jamnagar, India."
     },
     "products": {
       "title": "Our Products",
@@ -387,7 +387,7 @@
     },
     "contact": {
       "title": "Contact Us",
-      "description": "Get in touch with BrassCraft Industries for inquiries, quotations, or technical support. Located in Jamnagar, Gujarat, India."
+      "description": "Get in touch with BrassForge Industries for inquiries, quotations, or technical support. Located in Jamnagar, Gujarat, India."
     },
     "quote": {
       "title": "Request a Quote",
@@ -395,7 +395,7 @@
     },
     "privacy": {
       "title": "Privacy Policy",
-      "description": "BrassCraft Industries privacy policy - how we collect, use, and protect your personal information."
+      "description": "BrassForge Industries privacy policy - how we collect, use, and protect your personal information."
     }
   },
   "errors": {

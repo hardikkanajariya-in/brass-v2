@@ -10,56 +10,64 @@ interface StatCounterProps {
 
 export function StatCounter({ value, suffix = "", label }: StatCounterProps) {
   const [count, setCount] = useState(0);
-  const [isVisible, setIsVisible] = useState(false);
+  const [hasAnimated, setHasAnimated] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
+    const el = ref.current;
+    if (!el) return;
+
     const observer = new IntersectionObserver(
       ([entry]) => {
-        if (entry.isIntersecting) {
-          setIsVisible(true);
+        if (entry.isIntersecting && !hasAnimated) {
+          setHasAnimated(true);
           observer.disconnect();
         }
       },
-      { threshold: 0.3 }
+      { threshold: 0.1 }
     );
 
-    if (ref.current) {
-      observer.observe(ref.current);
-    }
-
+    observer.observe(el);
     return () => observer.disconnect();
-  }, []);
+  }, [hasAnimated]);
 
   useEffect(() => {
-    if (!isVisible) return;
+    if (!hasAnimated) return;
 
-    const duration = 2000;
+    // For large values (like 1,000,000), count to a smaller display number
+    const targetDisplay = value >= 1000000 ? 1 : value;
+    const duration = value >= 1000000 ? 800 : 2000;
     const startTime = performance.now();
-    const displayValue = value > 10000 ? value / 1000 : value;
 
     function animate(currentTime: number) {
       const elapsed = currentTime - startTime;
       const progress = Math.min(elapsed / duration, 1);
       const eased = 1 - Math.pow(1 - progress, 3);
-      setCount(Math.floor(eased * displayValue));
+      setCount(Math.floor(eased * targetDisplay));
 
       if (progress < 1) {
         requestAnimationFrame(animate);
+      } else {
+        setCount(targetDisplay);
       }
     }
 
     requestAnimationFrame(animate);
-  }, [isVisible, value]);
+  }, [hasAnimated, value]);
 
-  const displaySuffix = value > 10000 ? `M${suffix}` : suffix;
-  const displayCount = value > 10000 ? `${count === 0 ? "0" : count < 1000 ? count : `${count}`}` : count;
+  // Format display value
+  let displayText: string;
+  if (value >= 1000000) {
+    displayText = `${count}M`;
+  } else {
+    displayText = `${count}`;
+  }
 
   return (
     <div ref={ref} className="text-center">
       <div className="text-3xl font-bold text-brand-primary-light md:text-4xl">
-        {displayCount}
-        {displaySuffix}
+        {displayText}
+        {suffix}
       </div>
       <div className="mt-2 text-sm text-white/70">{label}</div>
     </div>

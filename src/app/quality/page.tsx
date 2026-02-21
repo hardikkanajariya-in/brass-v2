@@ -58,10 +58,10 @@ export default function QualityPage() {
             title={t("process.title")}
             subtitle={t("process.subtitle")}
           />
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
             {PROCESS_STEPS.map(({ key, icon }, index) => (
-              <div key={key} className="relative">
-                <div className="absolute -left-3 -top-3 flex h-8 w-8 items-center justify-center rounded-full bg-brand-primary text-sm font-bold text-white">
+              <div key={key} className="relative pl-4 pt-4 sm:pl-0 sm:pt-0">
+                <div className="absolute left-0 top-0 flex h-8 w-8 items-center justify-center rounded-full bg-brand-primary text-sm font-bold text-white sm:-left-3 sm:-top-3">
                   {index + 1}
                 </div>
                 <FeatureCard

@@ -145,9 +145,10 @@ export function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div className="border-t border-white/10 py-6 text-center text-sm text-white/60">
+        <div className="border-t border-white/10 py-6 text-center text-xs text-white/60 sm:text-sm">
           <p>
-            {t("footer.copyright", { year: currentYear })}{" "}
+            {t("footer.copyright", { year: currentYear })}
+            <span className="mx-1">|</span>
             {t("footer.builtBy")}{" "}
             <a
               href={siteConfig.footer.credit.url}

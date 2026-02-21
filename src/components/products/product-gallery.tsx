@@ -28,13 +28,13 @@ export function ProductGallery({ images, productName }: ProductGalleryProps) {
 
       {/* Thumbnails */}
       {images.length > 1 && (
-        <div className="flex gap-3">
+        <div className="flex gap-2 overflow-x-auto sm:gap-3">
           {images.slice(0, 4).map((img, i) => (
             <button
               key={i}
               onClick={() => setActiveIndex(i)}
               className={cn(
-                "relative h-20 w-20 overflow-hidden rounded-md border-2 transition-colors",
+                "relative h-16 w-16 shrink-0 overflow-hidden rounded-md border-2 transition-colors sm:h-20 sm:w-20",
                 i === activeIndex
                   ? "border-brand-primary"
                   : "border-transparent hover:border-neutral-300"

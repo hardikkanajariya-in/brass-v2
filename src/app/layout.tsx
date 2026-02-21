@@ -6,6 +6,7 @@ import { siteConfig } from "../../site.config";
 import { Header } from "@/components/layout/header";
 import { Footer } from "@/components/layout/footer";
 import { BackToTop } from "@/components/ui/back-to-top";
+import { PageLoader } from "@/components/ui/page-loader";
 import { OrganizationJsonLd } from "@/components/seo/json-ld";
 import "./globals.css";
 
@@ -46,8 +47,9 @@ export default async function RootLayout({
       >
         <NextIntlClientProvider messages={messages}>
           <OrganizationJsonLd />
+          <PageLoader />
           <Header />
-          <main className="min-h-screen">{children}</main>
+          <main className="min-h-screen pt-16 md:pt-20">{children}</main>
           <Footer />
           <BackToTop />
         </NextIntlClientProvider>

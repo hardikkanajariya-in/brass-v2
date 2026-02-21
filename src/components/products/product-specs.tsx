@@ -23,8 +23,8 @@ export function ProductSpecs({ specifications }: ProductSpecsProps) {
   ];
 
   return (
-    <div className="overflow-hidden rounded-card border border-neutral-200">
-      <table className="w-full">
+    <div className="overflow-x-auto rounded-card border border-neutral-200">
+      <table className="w-full min-w-[400px]">
         <thead>
           <tr className="bg-brand-secondary text-white">
             <th className="px-4 py-3 text-left text-sm font-semibold">

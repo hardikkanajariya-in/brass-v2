@@ -14,14 +14,14 @@ export function FeaturedProducts() {
   return (
     <Section background="muted">
       <Container>
-        <div className="flex items-end justify-between">
+        <div className="flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
           <SectionHeading
             title={t("common.labels.featured")}
             align="left"
           />
           <Link
             href="/products"
-            className="mb-10 flex items-center gap-1 text-sm font-medium text-brand-primary hover:underline md:mb-14"
+            className="mb-6 flex items-center gap-1 text-sm font-medium text-brand-primary hover:underline sm:mb-10 md:mb-14"
           >
             {t("common.labels.viewAll")}
             <ArrowRight className="h-4 w-4" />

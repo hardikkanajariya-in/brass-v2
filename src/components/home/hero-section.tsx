@@ -9,7 +9,7 @@ export function HeroSection() {
 
   return (
     <section
-      className="relative flex min-h-screen items-center overflow-hidden"
+      className="relative flex min-h-[80vh] items-center overflow-hidden py-20 lg:min-h-screen lg:py-0"
       style={{
         background: "var(--gradients-hero)",
       }}
@@ -81,9 +81,9 @@ export function HeroSection() {
             </div>
           </div>
 
-          {/* Stats */}
-          <div className="hidden lg:block">
-            <div className="grid grid-cols-2 gap-5">
+          {/* Stats - visible on all screens */}
+          <div>
+            <div className="grid grid-cols-2 gap-3 sm:gap-5">
               {[
                 { value: "30+", label: "years" },
                 { value: "55+", label: "products" },
@@ -92,12 +92,12 @@ export function HeroSection() {
               ].map((stat) => (
                 <div
                   key={stat.label}
-                  className="rounded-card border border-white/10 bg-white/5 p-6 text-center backdrop-blur-sm"
+                  className="rounded-card border border-white/10 bg-white/5 p-4 text-center backdrop-blur-sm sm:p-6"
                 >
-                  <div className="text-3xl font-bold text-brand-primary-light">
+                  <div className="text-2xl font-bold text-brand-primary-light sm:text-3xl">
                     {stat.value}
                   </div>
-                  <div className="mt-1 text-sm text-white/70">
+                  <div className="mt-1 text-xs text-white/70 sm:text-sm">
                     {stat.label}
                   </div>
                 </div>

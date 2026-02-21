@@ -7,8 +7,8 @@ interface TimelineProps {
 export function Timeline({ milestones }: TimelineProps) {
   return (
     <div className="relative">
-      {/* Vertical line */}
-      <div className="absolute left-4 top-0 hidden h-full w-0.5 bg-brand-primary/20 md:left-1/2 md:block" />
+      {/* Vertical line - visible on both mobile (left) and desktop (center) */}
+      <div className="absolute left-4 top-0 h-full w-0.5 bg-brand-primary/20 md:left-1/2" />
 
       <div className="space-y-8">
         {milestones.map((milestone, index) => (
@@ -18,8 +18,8 @@ export function Timeline({ milestones }: TimelineProps) {
               index % 2 === 0 ? "md:flex-row" : "md:flex-row-reverse"
             }`}
           >
-            {/* Dot */}
-            <div className="absolute left-4 top-1 z-10 hidden h-4 w-4 -translate-x-1/2 rounded-full border-2 border-brand-primary bg-white md:left-1/2 md:block" />
+            {/* Dot - visible on both mobile and desktop */}
+            <div className="absolute left-4 top-5 z-10 h-4 w-4 -translate-x-1/2 rounded-full border-2 border-brand-primary bg-white md:left-1/2 md:top-1" />
 
             {/* Content */}
             <div className="w-full pl-10 md:w-1/2 md:pl-0">

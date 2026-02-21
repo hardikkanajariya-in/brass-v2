@@ -54,11 +54,13 @@ export default function ContactPage() {
 
       <Section background="brand">
         <Container>
-          <div className="py-12 text-center text-white">
-            <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl">
+          <div className="relative overflow-hidden py-12 text-center text-white md:py-16">
+            <div className="absolute -left-10 -top-10 h-40 w-40 rounded-full bg-white/5" />
+            <div className="absolute -bottom-8 -right-8 h-32 w-32 rounded-full bg-white/5" />
+            <h1 className="relative text-3xl font-bold md:text-4xl lg:text-5xl">
               {t("hero.title")}
             </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
+            <p className="relative mx-auto mt-4 max-w-2xl text-lg text-white/80">
               {t("hero.subtitle")}
             </p>
           </div>
@@ -70,11 +72,12 @@ export default function ContactPage() {
           <div className="grid gap-10 lg:grid-cols-3">
             {/* Contact Info */}
             <div>
-              <div className="space-y-6">
+              <h2 className="mb-6 text-xl font-bold text-brand-secondary">Get in Touch</h2>
+              <div className="space-y-4">
                 {contactItems.map(({ icon: Icon, label, value, href }) => (
-                  <div key={label} className="flex gap-4">
-                    <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-brand-primary/10">
-                      <Icon className="h-5 w-5 text-brand-primary" />
+                  <div key={label} className="group flex gap-4 rounded-xl border border-neutral-100 bg-white p-4 transition-all duration-200 hover:border-brand-primary/20 hover:shadow-sm">
+                    <div className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-brand-primary/10 transition-colors duration-200 group-hover:bg-brand-primary">
+                      <Icon className="h-5 w-5 text-brand-primary transition-colors duration-200 group-hover:text-white" />
                     </div>
                     <div>
                       <p className="text-sm font-semibold text-brand-secondary">
@@ -98,7 +101,10 @@ export default function ContactPage() {
 
             {/* Form */}
             <div className="lg:col-span-2">
-              <ContactForm />
+              <div className="rounded-2xl border border-neutral-100 bg-white p-6 shadow-sm sm:p-8">
+                <h2 className="mb-6 text-xl font-bold text-brand-secondary">Send a Message</h2>
+                <ContactForm />
+              </div>
             </div>
           </div>
         </Container>

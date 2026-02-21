@@ -6,6 +6,7 @@ import { Calendar, Clock, ArrowLeft, Tag } from "lucide-react";
 import { Container } from "@/components/layout/container";
 import { Section } from "@/components/layout/section";
 import { Breadcrumb } from "@/components/layout/breadcrumb";
+import { SectionHeading } from "@/components/content/section-heading";
 import { Badge } from "@/components/ui/badge";
 import { BlogCard } from "@/components/content/blog-card";
 import { ArticleJsonLd } from "@/components/seo/json-ld";
@@ -65,29 +66,30 @@ export default async function BlogPostPage({ params }: Props) {
               <h1 className="text-3xl font-bold text-brand-secondary md:text-4xl">
                 {post.title}
               </h1>
-              <div className="mt-4 flex flex-wrap items-center gap-4 text-sm text-neutral-500">
+              <div className="mt-4 flex flex-wrap items-center gap-4 rounded-lg bg-neutral-50 px-4 py-3 text-sm text-neutral-500">
                 <span className="inline-flex items-center gap-1">
-                  <Calendar className="h-4 w-4" />
+                  <Calendar className="h-4 w-4 text-brand-primary" />
                   {formatDate(post.publishedAt)}
                 </span>
                 <span className="inline-flex items-center gap-1">
-                  <Clock className="h-4 w-4" />
+                  <Clock className="h-4 w-4 text-brand-primary" />
                   {post.readTime}
                 </span>
-                <span>{post.author}</span>
+                <span className="font-medium text-brand-secondary">{post.author}</span>
               </div>
             </div>
 
             {/* Content */}
-            <div className="prose prose-lg max-w-none">
+            <div className="prose prose-lg max-w-none prose-headings:text-brand-secondary prose-a:text-brand-primary">
               {post.content.split("\n").map((paragraph, idx) => (
                 <p key={idx}>{paragraph}</p>
               ))}
             </div>
 
             {/* Tags */}
-            <div className="mt-8 flex flex-wrap items-center gap-2 border-t border-neutral-200 pt-6">
-              <Tag className="h-4 w-4 text-neutral-400" />
+            <div className="mt-8 flex flex-wrap items-center gap-2 rounded-lg border border-neutral-200 bg-neutral-50 p-4">
+              <Tag className="h-4 w-4 text-brand-primary" />
+              <span className="mr-1 text-sm font-semibold text-brand-secondary">Tags:</span>
               {post.tags.map((tag) => (
                 <Badge key={tag} variant="outline">
                   {tag}
@@ -102,9 +104,10 @@ export default async function BlogPostPage({ params }: Props) {
       {recentPosts.length > 0 && (
         <Section background="muted">
           <Container>
-            <h2 className="mb-6 text-2xl font-bold text-brand-secondary">
-              {t("recentPosts")}
-            </h2>
+            <SectionHeading
+              title={t("recentPosts")}
+              subtitle="Continue exploring our latest insights"
+            />
             <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
               {recentPosts.map((rp) => (
                 <BlogCard key={rp.id} post={rp} readMoreLabel={t("readMore")} />

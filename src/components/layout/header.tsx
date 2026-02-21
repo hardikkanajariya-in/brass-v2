@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useTranslations } from "next-intl";
 import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
 import { Phone, Menu, ChevronDown } from "lucide-react";
 import { Container } from "@/components/layout/container";
 import { Button } from "@/components/ui/button";
@@ -12,17 +13,27 @@ import { cn } from "@/lib/utils";
 
 export function Header() {
   const t = useTranslations();
-  const [isScrolled, setIsScrolled] = useState(false);
+  const pathname = usePathname();
+  const isHomePage = pathname === "/";
+
+  // Start with solid header on inner pages to avoid flash of transparent nav
+  const [isScrolled, setIsScrolled] = useState(!isHomePage);
   const [isMobileOpen, setIsMobileOpen] = useState(false);
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);
 
   useEffect(() => {
     const handleScroll = () => {
-      setIsScrolled(window.scrollY > 50);
+      if (isHomePage) {
+        setIsScrolled(window.scrollY > 50);
+      } else {
+        setIsScrolled(true); // Always solid on inner pages
+      }
     };
+    // Run immediately to set correct state
+    handleScroll();
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  }, [isHomePage]);
 
   const navItems = siteConfig.navigation.filter(
     (item) =>
@@ -44,13 +55,13 @@ export function Header() {
         <Container>
           <div className="flex h-16 items-center justify-between md:h-20">
             {/* Logo */}
-            <Link href="/" className="flex items-center gap-1">
-              <span className="text-xl font-bold text-brand-primary md:text-2xl">
+            <Link href="/" className="flex shrink-0 items-center gap-1">
+              <span className="text-lg font-bold text-brand-primary md:text-xl lg:text-2xl">
                 BrassCraft
               </span>
               <span
                 className={cn(
-                  "text-xl font-semibold md:text-2xl",
+                  "text-lg font-semibold md:text-xl lg:text-2xl",
                   isScrolled ? "text-brand-secondary" : "text-white"
                 )}
               >
@@ -59,7 +70,7 @@ export function Header() {
             </Link>
 
             {/* Desktop Nav */}
-            <nav className="hidden items-center gap-1 lg:flex">
+            <nav className="hidden items-center gap-0.5 xl:flex">
               {navItems.map((item) => (
                 <div
                   key={item.id}
@@ -72,7 +83,7 @@ export function Header() {
                   <Link
                     href={item.href}
                     className={cn(
-                      "flex items-center gap-1 rounded-md px-3 py-2 text-sm font-medium transition-colors",
+                      "flex items-center gap-0.5 whitespace-nowrap rounded-md px-2.5 py-2 text-[13px] font-medium transition-colors",
                       isScrolled
                         ? "text-neutral-700 hover:text-brand-primary"
                         : "text-white/90 hover:text-white"
@@ -80,7 +91,7 @@ export function Header() {
                   >
                     {t(item.labelKey)}
                     {item.children && (
-                      <ChevronDown className="h-3.5 w-3.5" />
+                      <ChevronDown className="h-3 w-3" />
                     )}
                   </Link>
 
@@ -103,20 +114,20 @@ export function Header() {
             </nav>
 
             {/* Right side */}
-            <div className="flex items-center gap-3">
+            <div className="flex shrink-0 items-center gap-2 lg:gap-3">
               <a
                 href={`tel:${siteConfig.contact.phone}`}
                 className={cn(
-                  "hidden items-center gap-2 text-sm font-medium md:flex",
+                  "hidden items-center gap-1.5 text-[13px] font-medium lg:flex",
                   isScrolled
                     ? "text-brand-secondary"
                     : "text-white"
                 )}
               >
-                <Phone className="h-4 w-4" />
-                <span>{siteConfig.contact.phone}</span>
+                <Phone className="h-3.5 w-3.5" />
+                <span className="whitespace-nowrap">{siteConfig.contact.phone}</span>
               </a>
-              <Link href="/request-quote" className="hidden lg:block">
+              <Link href="/request-quote" className="hidden xl:block">
                 <Button variant="primary" size="sm">
                   {t("nav.requestQuote")}
                 </Button>
@@ -124,7 +135,7 @@ export function Header() {
               <button
                 onClick={() => setIsMobileOpen(true)}
                 className={cn(
-                  "p-2 lg:hidden",
+                  "p-2 xl:hidden",
                   isScrolled ? "text-brand-secondary" : "text-white"
                 )}
                 aria-label={t("common.aria.openMenu")}

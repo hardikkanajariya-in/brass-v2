@@ -47,7 +47,7 @@ export function Breadcrumb() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <nav aria-label="Breadcrumb" className="py-4">
+      <nav aria-label="Breadcrumb" className="py-3 border-b border-neutral-100">
         <ol className="flex flex-wrap items-center gap-1 text-sm">
           <li>
             <Link

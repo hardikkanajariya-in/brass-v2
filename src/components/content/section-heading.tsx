@@ -23,15 +23,19 @@ export function SectionHeading({
     >
       <div
         className={cn(
-          "mb-4 h-1 w-12 rounded-full bg-brand-primary",
-          align === "center" ? "mx-auto" : ""
+          "mb-4 inline-flex items-center gap-2",
+          align === "center" ? "justify-center w-full" : ""
         )}
-      />
+      >
+        <div className="h-px w-8 bg-brand-primary" />
+        <div className="h-2 w-2 rounded-full bg-brand-primary" />
+        <div className="h-px w-8 bg-brand-primary" />
+      </div>
       <h2 className="text-2xl font-bold text-brand-secondary md:text-3xl lg:text-4xl">
         {title}
       </h2>
       {subtitle && (
-        <p className="mt-3 text-base text-neutral-600 md:text-lg">{subtitle}</p>
+        <p className="mx-auto mt-3 max-w-2xl text-base text-neutral-600 md:text-lg">{subtitle}</p>
       )}
     </div>
   );

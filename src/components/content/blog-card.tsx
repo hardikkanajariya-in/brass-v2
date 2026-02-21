@@ -12,10 +12,11 @@ interface BlogCardProps {
 
 export function BlogCard({ post, readMoreLabel }: BlogCardProps) {
   return (
-    <article className="group flex h-full flex-col overflow-hidden rounded-card bg-white shadow-card transition-shadow duration-300 hover:shadow-lg">
+    <article className="group flex h-full flex-col overflow-hidden rounded-card border border-neutral-100 bg-white shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
       {/* Image */}
       <div className="relative aspect-video overflow-hidden">
         <PlaceholderImage shape="rectangle" />
+        <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
         <div className="absolute left-3 top-3">
           <Badge variant="brand">{post.category}</Badge>
         </div>

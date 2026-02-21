@@ -20,16 +20,17 @@ export function StatsSection() {
         <SectionHeading
           title={t("sections.stats")}
           subtitle={t("sections.statsSubtitle")}
-          className="text-white [&_h2]:text-white [&_p]:text-white/70"
+          className="text-white [&_h2]:text-white [&_p]:text-white/70 [&_.h-px]:bg-white/30 [&_.h-2]:bg-white/50"
         />
         <div className="grid grid-cols-2 gap-6 lg:grid-cols-4">
           {stats.map((stat) => (
-            <StatCounter
-              key={stat.label}
-              value={stat.value}
-              suffix={stat.suffix}
-              label={stat.label}
-            />
+            <div key={stat.label} className="relative rounded-xl border border-white/10 bg-white/5 p-6 text-center backdrop-blur-sm">
+              <StatCounter
+                value={stat.value}
+                suffix={stat.suffix}
+                label={stat.label}
+              />
+            </div>
           ))}
         </div>
       </Container>

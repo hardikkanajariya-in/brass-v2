@@ -59,7 +59,7 @@ export default async function ProductDetailPage({ params }: Props) {
 
       <Section>
         <Container>
-          <div className="grid gap-8 lg:grid-cols-2">
+          <div className="grid gap-10 lg:grid-cols-2">
             {/* Gallery */}
             <ProductGallery images={allImages} productName={product.name} />
 
@@ -81,21 +81,23 @@ export default async function ProductDetailPage({ params }: Props) {
                 )}
               </div>
 
-              <h1 className="text-2xl font-bold text-brand-secondary md:text-3xl">
+              <h1 className="text-2xl font-bold text-brand-secondary md:text-3xl lg:text-4xl">
                 {product.name}
               </h1>
 
-              <p className="mt-4 leading-relaxed text-neutral-600">
+              <div className="my-4 h-px bg-neutral-200" />
+
+              <p className="leading-relaxed text-neutral-600">
                 {product.description}
               </p>
 
               {/* Features */}
               {product.features.length > 0 && (
-                <div className="mt-6">
-                  <h3 className="mb-2 text-lg font-semibold text-brand-secondary">
+                <div className="mt-6 rounded-xl border border-neutral-100 bg-neutral-50 p-5">
+                  <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-brand-primary">
                     {t("features")}
                   </h3>
-                  <ul className="space-y-1.5">
+                  <ul className="grid gap-2 sm:grid-cols-2">
                     {product.features.map((f) => (
                       <li
                         key={f}
@@ -112,7 +114,7 @@ export default async function ProductDetailPage({ params }: Props) {
               {/* Applications */}
               {product.applications.length > 0 && (
                 <div className="mt-6">
-                  <h3 className="mb-2 text-lg font-semibold text-brand-secondary">
+                  <h3 className="mb-3 text-sm font-semibold uppercase tracking-wider text-brand-primary">
                     {t("applications")}
                   </h3>
                   <div className="flex flex-wrap gap-2">
@@ -125,9 +127,12 @@ export default async function ProductDetailPage({ params }: Props) {
                 </div>
               )}
 
-              <div className="mt-8">
+              <div className="mt-8 flex flex-wrap gap-3">
                 <Button as={Link} href="/request-quote" size="lg">
                   {t("requestQuote")}
+                </Button>
+                <Button as={Link} href="/contact" size="lg" variant="outline">
+                  Contact Us
                 </Button>
               </div>
             </div>
@@ -139,10 +144,16 @@ export default async function ProductDetailPage({ params }: Props) {
       {product.specifications && (
         <Section background="muted">
           <Container>
-            <h2 className="mb-6 text-2xl font-bold text-brand-secondary">
-              {t("specifications")}
-            </h2>
-            <ProductSpecs specifications={product.specifications} />
+            <div className="flex items-center gap-3 mb-6">
+              <div className="h-px flex-1 bg-brand-primary/20" />
+              <h2 className="text-2xl font-bold text-brand-secondary">
+                {t("specifications")}
+              </h2>
+              <div className="h-px flex-1 bg-brand-primary/20" />
+            </div>
+            <div className="rounded-xl border border-neutral-100 bg-white p-1 shadow-sm">
+              <ProductSpecs specifications={product.specifications} />
+            </div>
           </Container>
         </Section>
       )}

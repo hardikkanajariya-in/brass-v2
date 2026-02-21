@@ -7,8 +7,8 @@ interface TestimonialCardProps {
 
 export function TestimonialCard({ testimonial }: TestimonialCardProps) {
   return (
-    <div className="flex h-full flex-col rounded-card bg-white p-6 shadow-card">
-      <Quote className="mb-3 h-8 w-8 text-brand-primary opacity-30" />
+    <div className="flex h-full flex-col rounded-card border-l-4 border-brand-primary bg-white p-6 shadow-card transition-shadow duration-300 hover:shadow-lg">
+      <Quote className="mb-3 h-8 w-8 text-brand-primary opacity-20" />
       <p className="flex-1 text-sm leading-relaxed text-neutral-600">
         {testimonial.content}
       </p>

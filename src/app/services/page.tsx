@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { getTranslations } from "next-intl/server";
 import { useTranslations } from "next-intl";
 import Link from "next/link";
+import * as LucideIcons from "lucide-react";
+import { CheckCircle, ArrowRight } from "lucide-react";
 import { Container } from "@/components/layout/container";
 import { Section } from "@/components/layout/section";
 import { Breadcrumb } from "@/components/layout/breadcrumb";
@@ -29,11 +31,13 @@ export default function ServicesPage() {
 
       <Section background="brand">
         <Container>
-          <div className="py-12 text-center text-white">
-            <h1 className="text-3xl font-bold md:text-4xl lg:text-5xl">
+          <div className="relative overflow-hidden py-12 text-center text-white md:py-16">
+            <div className="absolute -left-10 -top-10 h-40 w-40 rounded-full bg-white/5" />
+            <div className="absolute -bottom-8 -right-8 h-32 w-32 rounded-full bg-white/5" />
+            <h1 className="relative text-3xl font-bold md:text-4xl lg:text-5xl">
               {t("hero.title")}
             </h1>
-            <p className="mx-auto mt-4 max-w-2xl text-lg text-white/80">
+            <p className="relative mx-auto mt-4 max-w-2xl text-lg text-white/80">
               {t("hero.subtitle")}
             </p>
           </div>
@@ -58,34 +62,71 @@ export default function ServicesPage() {
         </Container>
       </Section>
 
-      {/* Service detail sections */}
-      {services.map((service) => (
-        <Section key={service.id} id={service.slug} background="muted">
-          <Container>
-            <div className="mx-auto max-w-3xl">
-              <h2 className="mb-4 text-2xl font-bold text-brand-secondary">
-                {service.name}
-              </h2>
-              <p className="mb-6 leading-relaxed text-neutral-600">
-                {service.description}
-              </p>
-              {service.capabilities.length > 0 && (
-                <ul className="grid gap-2 sm:grid-cols-2">
-                  {service.capabilities.map((cap) => (
-                    <li
-                      key={cap}
-                      className="flex items-start gap-2 text-sm text-neutral-600"
+      {/* Service detail sections — alternating layout */}
+      {services.map((service, index) => {
+        const iconName = service.lucideIcon as keyof typeof LucideIcons;
+        const Icon = (LucideIcons[iconName] as LucideIcons.LucideIcon) || LucideIcons.Wrench;
+        const isEven = index % 2 === 0;
+
+        return (
+          <section
+            key={service.id}
+            id={service.slug}
+            className={isEven ? "bg-white" : "bg-surface-muted"}
+          >
+            <Container>
+              <div className="py-16 md:py-20">
+                <div className={`grid items-center gap-8 lg:grid-cols-2 lg:gap-14 ${!isEven ? "lg:[direction:rtl] lg:[&>*]:[direction:ltr]" : ""}`}>
+                  {/* Left / Content side */}
+                  <div>
+                    <div className="mb-4 flex items-center gap-3">
+                      <div className="flex h-12 w-12 items-center justify-center rounded-xl bg-brand-primary/10">
+                        <Icon className="h-6 w-6 text-brand-primary" />
+                      </div>
+                      <div className="h-px flex-1 bg-brand-primary/20" />
+                    </div>
+
+                    <h2 className="mb-4 text-2xl font-bold text-brand-secondary md:text-3xl">
+                      {service.name}
+                    </h2>
+                    <p className="mb-6 text-base leading-relaxed text-neutral-600">
+                      {service.description}
+                    </p>
+
+                    <Link
+                      href="/request-quote"
+                      className="inline-flex items-center gap-2 text-sm font-semibold text-brand-primary transition-colors hover:text-brand-primary-dark"
                     >
-                      <span className="mt-1 h-1.5 w-1.5 shrink-0 rounded-full bg-brand-primary" />
-                      {cap}
-                    </li>
-                  ))}
-                </ul>
-              )}
-            </div>
-          </Container>
-        </Section>
-      ))}
+                      Get a Quote
+                      <ArrowRight className="h-4 w-4" />
+                    </Link>
+                  </div>
+
+                  {/* Right / Capabilities side */}
+                  <div className="rounded-2xl border border-neutral-200/80 bg-white p-6 shadow-sm sm:p-8">
+                    <h3 className="mb-5 text-sm font-semibold uppercase tracking-wider text-brand-primary">
+                      Key Capabilities
+                    </h3>
+                    <div className="grid gap-3 sm:grid-cols-2">
+                      {service.capabilities.map((cap) => (
+                        <div
+                          key={cap}
+                          className="flex items-start gap-2.5 rounded-lg bg-neutral-50 px-3 py-2.5"
+                        >
+                          <CheckCircle className="mt-0.5 h-4 w-4 shrink-0 text-brand-primary" />
+                          <span className="text-sm leading-snug text-neutral-700">
+                            {cap}
+                          </span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </Container>
+          </section>
+        );
+      })}
 
       {/* CTA */}
       <Section background="dark">

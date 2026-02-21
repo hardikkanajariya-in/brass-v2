@@ -16,7 +16,7 @@ export function CategoriesOverview() {
           title={t("ourProducts")}
           subtitle={t("ourProductsSubtitle")}
         />
-        <div className="grid grid-cols-1 gap-spacing-card-gap sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3 xl:grid-cols-4">
           {categories.map((category) => (
             <CategoryCard key={category.id} category={category} />
           ))}

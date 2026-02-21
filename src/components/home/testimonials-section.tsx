@@ -41,7 +41,7 @@ export function TestimonialsSection() {
         <div className="relative">
           <div
             ref={scrollRef}
-            className="flex snap-x snap-mandatory gap-6 overflow-x-auto scroll-smooth pb-4"
+            className="flex snap-x snap-mandatory gap-8 overflow-x-auto scroll-smooth pb-6"
             style={{ scrollbarWidth: "none" }}
           >
             {testimonials.map((testimonial) => (

@@ -64,7 +64,7 @@ export default function AboutPage() {
                 {company.description}
               </p>
             </div>
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-2 gap-5">
               <div className="rounded-xl border border-neutral-100 bg-white p-5 text-center shadow-sm">
                 <p className="text-3xl font-bold text-brand-primary">30+</p>
                 <p className="mt-1 text-sm text-neutral-500">Years Experience</p>
@@ -95,7 +95,7 @@ export default function AboutPage() {
             title={t("mission.title") + " & " + t("vision.title")}
             subtitle="Guiding principles that drive everything we do"
           />
-          <div className="grid gap-8 md:grid-cols-2">
+          <div className="grid gap-8 md:gap-10 md:grid-cols-2">
             <div className="relative overflow-hidden rounded-card bg-white p-8 shadow-card">
               <div className="absolute inset-y-0 left-0 w-1 bg-brand-primary" />
               <div className="mb-4 flex h-12 w-12 items-center justify-center rounded-xl bg-brand-primary/10">
@@ -131,7 +131,7 @@ export default function AboutPage() {
             title={t("values.title")}
             subtitle={t("values.subtitle")}
           />
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3">
             {company.coreValues.map((value) => {
               const iconName = value.lucideIcon as keyof typeof LucideIcons;
               const Icon = (LucideIcons[iconName] as LucideIcons.LucideIcon) || LucideIcons.Star;
@@ -166,7 +166,7 @@ export default function AboutPage() {
             title={t("team.title")}
             subtitle={t("team.subtitle")}
           />
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-4">
             {company.leadership.map((member) => (
               <TeamMember key={member.id} member={member} />
             ))}

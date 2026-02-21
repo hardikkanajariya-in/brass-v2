@@ -44,7 +44,7 @@ export default function PrivacyPolicyPage() {
 
       <Section>
         <Container>
-          <div className="mx-auto max-w-3xl space-y-6">
+          <div className="mx-auto max-w-3xl space-y-8">
             {sections.map(({ key }, index) => (
               <div key={key} className="rounded-xl border border-neutral-100 bg-white p-6 shadow-sm sm:p-8">
                 <div className="mb-3 flex items-center gap-3">

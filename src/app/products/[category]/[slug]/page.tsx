@@ -59,7 +59,7 @@ export default async function ProductDetailPage({ params }: Props) {
 
       <Section>
         <Container>
-          <div className="grid gap-10 lg:grid-cols-2">
+          <div className="grid gap-10 lg:grid-cols-2 lg:gap-14">
             {/* Gallery */}
             <ProductGallery images={allImages} productName={product.name} />
 

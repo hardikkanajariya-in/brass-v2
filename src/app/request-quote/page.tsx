@@ -46,11 +46,11 @@ export default function RequestQuotePage() {
 
       <Section>
         <Container>
-          <div className="grid gap-10 lg:grid-cols-3">
+          <div className="grid gap-12 lg:grid-cols-3">
             {/* Trust indicators sidebar */}
             <div>
               <h2 className="mb-6 text-xl font-bold text-brand-secondary">Why Choose Us</h2>
-              <div className="space-y-4">
+              <div className="space-y-5">
                 {trustItems.map(({ icon: Icon, label }) => (
                   <div key={label} className="flex items-center gap-3 rounded-xl border border-neutral-100 bg-white p-4 shadow-sm">
                     <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg bg-brand-primary/10">

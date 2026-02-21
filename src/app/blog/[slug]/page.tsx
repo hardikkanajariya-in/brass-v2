@@ -108,7 +108,7 @@ export default async function BlogPostPage({ params }: Props) {
               title={t("recentPosts")}
               subtitle="Continue exploring our latest insights"
             />
-            <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+            <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3">
               {recentPosts.map((rp) => (
                 <BlogCard key={rp.id} post={rp} readMoreLabel={t("readMore")} />
               ))}

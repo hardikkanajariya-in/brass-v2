@@ -53,7 +53,7 @@ export default function InfrastructurePage() {
             title={t("plant.title")}
             subtitle={t("plant.subtitle")}
           />
-          <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+          <div className="grid gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-4">
             {plantStats.map(({ icon: Icon, value, label }) => (
               <div key={label} className="group relative overflow-hidden rounded-xl border border-neutral-100 bg-white p-6 text-center shadow-card transition-all duration-300 hover:-translate-y-1 hover:shadow-lg">
                 <div className="absolute inset-x-0 bottom-0 h-1 bg-gradient-to-r from-brand-primary to-brand-primary-dark opacity-0 transition-opacity duration-300 group-hover:opacity-100" />
@@ -75,7 +75,7 @@ export default function InfrastructurePage() {
             title={t("machinery.title")}
             subtitle={t("machinery.subtitle")}
           />
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3">
             {infra.machinery.map((machine) => (
               <div
                 key={machine.name}
@@ -109,7 +109,7 @@ export default function InfrastructurePage() {
             title={t("lab.title")}
             subtitle={t("lab.subtitle")}
           />
-          <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3">
             {infra.qualityLab.map((eq) => (
               <div
                 key={eq.name}

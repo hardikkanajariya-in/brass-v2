@@ -24,7 +24,7 @@ export function WhyChooseUs() {
           title={t("sections.whyChooseUs")}
           subtitle={t("sections.whyChooseUsSubtitle")}
         />
-        <div className="grid grid-cols-1 gap-spacing-card-gap sm:grid-cols-2 lg:grid-cols-3">
+        <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3">
           {FEATURES.map(({ key, icon }) => (
             <FeatureCard
               key={key}

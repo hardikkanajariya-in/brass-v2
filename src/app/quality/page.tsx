@@ -64,7 +64,7 @@ export default function QualityPage() {
             {/* Connector line (desktop) */}
             <div className="absolute left-0 right-0 top-[52px] hidden h-0.5 bg-gradient-to-r from-brand-primary/20 via-brand-primary/40 to-brand-primary/20 lg:block" />
 
-            <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 sm:gap-10 lg:grid-cols-4">
               {PROCESS_STEPS.map(({ key, icon: Icon }, index) => (
                 <div key={key} className="relative flex flex-col items-center text-center">
                   {/* Step number + icon */}
@@ -100,7 +100,7 @@ export default function QualityPage() {
             title={t("standards.title")}
             subtitle={t("standards.subtitle")}
           />
-          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+          <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3">
             {certifications.map((cert) => (
               <CertificationCard key={cert.id} certification={cert} />
             ))}

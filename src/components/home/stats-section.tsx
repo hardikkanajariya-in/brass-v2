@@ -22,7 +22,7 @@ export function StatsSection() {
           subtitle={t("sections.statsSubtitle")}
           className="text-white [&_h2]:text-white [&_p]:text-white/70 [&_.h-px]:bg-white/30 [&_.h-2]:bg-white/50"
         />
-        <div className="grid grid-cols-2 gap-6 lg:grid-cols-4">
+        <div className="grid grid-cols-2 gap-4 sm:gap-8 lg:grid-cols-4">
           {stats.map((stat) => (
             <div key={stat.label} className="relative rounded-xl border border-white/10 bg-white/5 p-6 text-center backdrop-blur-sm">
               <StatCounter

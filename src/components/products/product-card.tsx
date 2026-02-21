@@ -40,7 +40,7 @@ export function ProductCard({ product, className }: ProductCardProps) {
           )}
         </div>
       </div>
-      <div className="flex flex-1 flex-col p-4">
+      <div className="flex flex-1 flex-col p-5">
         <h3 className="text-base font-semibold text-brand-secondary group-hover:text-brand-primary">
           {product.name}
         </h3>

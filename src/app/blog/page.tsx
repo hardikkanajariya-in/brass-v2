@@ -54,7 +54,7 @@ export default function BlogPage() {
                 <h2 className="text-lg font-semibold text-brand-secondary">Latest Article</h2>
                 <div className="h-px flex-1 bg-brand-primary/20" />
               </div>
-              <div className="grid gap-6 lg:grid-cols-2">
+              <div className="grid gap-8 lg:grid-cols-2">
                 <BlogCard post={featuredPost} readMoreLabel={t("readMore")} />
                 {remainingPosts[0] && (
                   <BlogCard post={remainingPosts[0]} readMoreLabel={t("readMore")} />
@@ -70,7 +70,7 @@ export default function BlogPage() {
                 title="More Articles"
                 subtitle="Stay informed with industry insights and updates"
               />
-              <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
+              <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 sm:gap-8 lg:grid-cols-3">
                 {remainingPosts.slice(1).map((post) => (
                   <BlogCard
                     key={post.id}
